@@ -46,7 +46,7 @@ Resources
 12. https://occupyhere.org/
 
 8/29
-1. https://anthology.rhizome.org/a-cyber-feminist-manifesto-for-the-21st-century
+1. https://vimeo.com/229399968
 2. http://people.uncw.edu/tompkinsj/112/JavaScript/GettingStartedwithP5js.pdf
 3. https://alpha.editor.p5js.org/
 4. https://creators.vice.com/en_us/article/mgpbxa/this-artist-turned-herself-into-a-corporation-to-sell-her-data
@@ -55,4 +55,5 @@ Resources
 7. https://web.archive.org/web/20021122231254/http://switch.sjsu.edu:80/web/v5n3/J-1.html
 8. http://idyrself.com/
 9. https://en.wikipedia.org/wiki/Netochka_Nezvanova_(author)
+10. https://anthology.rhizome.org/a-cyber-feminist-manifesto-for-the-21st-century
 
