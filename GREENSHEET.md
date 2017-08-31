@@ -104,6 +104,7 @@ Schedule
 | 11/16               | Workshop day or Optional ATC in MLK |
 | *Week 14* 11/21     | **Third Project Due** |
 | 11/23               | Thanksgiving – no class
+| 11/26               | Monday Installation of project three in Gallery 8 |
 | *Week 15* 11/28     | **Due Ideas + Concepts for the final project** (each student/team must post to git with sketches/research notes/and concepts they are interested in) Work in class on final |
 | 11/30               | Final Workshop |
 | *Week 16* 12/05     | **Presentation Day** ---> Student Presentation of Final Project |
