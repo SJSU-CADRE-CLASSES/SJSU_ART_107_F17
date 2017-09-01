@@ -57,3 +57,12 @@ Resources
 9. https://en.wikipedia.org/wiki/Netochka_Nezvanova_(author)
 10. https://anthology.rhizome.org/a-cyber-feminist-manifesto-for-the-21st-century
 
+8/31
+
+1. https://vimeo.com/196269431
+2. https://www.openprocessing.org/
+3. https://p5js.org/reference/
+4. https://codepen.io/tag/p5js/4/
+5. http://2ality.com/2014/06/simple-http-server.html
+6. http://nas.sr/
+7. https://del.icio.us/
