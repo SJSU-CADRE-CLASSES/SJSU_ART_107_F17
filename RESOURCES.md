@@ -85,3 +85,10 @@ Resources
 14. https://en.wikipedia.org/wiki/Wikipedia:Community_health_initiative_on_English_Wikipedia/Research_blog
 15. https://news.ycombinator.com/
 16. http://criticalartware.net/
+17. http://e.m-bed.de/d/
+18. https://www.youtube.com/watch?v=nS7QvOX8LVk
+19. https://www.youtube.com/watch?v=tYytVzbPky8
+20. https://vimeo.com/9581524
+21. https://vimeo.com/15821484
+22. https://www.google.com/search?q=databending&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjLuKPT7ZPWAhWLxVQKHcz6CpgQ_AUICigB&biw=1147&bih=797
+23. https://vimeo.com/22724713
