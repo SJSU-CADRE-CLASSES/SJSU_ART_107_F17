@@ -66,3 +66,22 @@ Resources
 5. http://2ality.com/2014/06/simple-http-server.html
 6. http://nas.sr/
 7. https://del.icio.us/
+
+9/7
+
+1. http://jonrafman.com/
+2. https://vimeo.com/109658691
+3. http://www.teleportacia.org/war/wara.htm
+4. http://gli.tc/h/
+5. https://www.youtube.com/watch?v=4hBARzlmXTI&list=PL3228E09A837979FB
+6. http://anxioustomake.ga/makingyoumakingothers.html
+7. https://vimeo.com/186337332
+8. http://nickbriz.com/thoughtsonglitchart/
+9. https://www.youtube.com/watch?v=R1trvNcpePI
+10. https://dombarra.tumblr.com/anopenletterto_statement
+11. http://www.shmeck.com/artwork/detail.php?artworkid=142
+12. https://www.youtube.com/watch?v=oJ0WjXUvVzw
+13. https://www.youtube.com/watch?v=Jd3-eiid-Uw
+14. https://en.wikipedia.org/wiki/Wikipedia:Community_health_initiative_on_English_Wikipedia/Research_blog
+15. https://news.ycombinator.com/
+16. http://criticalartware.net/
