@@ -1,2 +1,4 @@
 
-What's the term of the AI technology? Make them know humman beings just like a humman? Make them as smart as a human?
+An Ai and a pet is somehow related today. They are both a A dog's intelligence level is predictable, there always is an upper limit there. But what about an Ai system? What's the terminal station of the AI technology? Make them know humman beings just like a humman? Make them as intelligent as a human? Or even make them more intelligent than human? So they can server well for human being? 
+We expect the AI to be smarter and smarter so that they can know human beings from every aspect like feelings, needs, or humanities... including greedy, selfish? What if Ai really understand all those? Standing at an equal intelligent level as or a superior level as human, will they really behavior like human? Especially after they gain self-awareness once they become intelligent enough? Will they ask for equal rights as human?
+I lobemeans they will be like humans. 
