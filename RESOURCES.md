@@ -109,3 +109,5 @@ Resources
 2. https://en.wikipedia.org/wiki/Project_Xanadu
 3. https://vimeo.com/33127983
 4. https://www.youtube.com/watch?v=WnzlbyTZsQY
+5. https://vimeo.com/232659058
+6. https://www.w3schools.com/js/js_function_closures.asp
