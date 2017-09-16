@@ -92,3 +92,20 @@ Resources
 21. https://vimeo.com/15821484
 22. https://www.google.com/search?q=databending&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjLuKPT7ZPWAhWLxVQKHcz6CpgQ_AUICigB&biw=1147&bih=797
 23. https://vimeo.com/22724713
+
+9/12
+
+1. http://whenithinkaboutyouitextmyself.com/
+2. https://www.forbes.com/sites/quora/2017/08/16/why-facebook-shut-down-its-artificial-intelligence-program-that-went-rogue/#6c473dc51710
+3. https://www.csee.umbc.edu/courses/471/papers/turing.pdf
+4. https://www.digitaltrends.com/cool-tech/ai-build-wants-to-change-the-way-we-build-the-future/#/6
+5. http://www.wired.co.uk/article/google-ai-language-create
+6. https://www.google.com/search?q=jackson+pollock&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjauY2ataDWAhVCxVQKHd80B90Q_AUICigB&biw=1329&bih=837#imgrc=6_ctJ6hMCvdlaM:
+7. https://www.google.com/search?q=harold+cohen+ai+art&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjQ2cjZtKDWAhWmqlQKHWDxAVYQ_AUICygC&biw=1329&bih=837
+
+9/14
+
+1. https://vimeo.com/448986
+2. https://en.wikipedia.org/wiki/Project_Xanadu
+3. https://vimeo.com/33127983
+4. https://www.youtube.com/watch?v=WnzlbyTZsQY
