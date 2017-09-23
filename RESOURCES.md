@@ -111,3 +111,13 @@ Resources
 4. https://www.youtube.com/watch?v=WnzlbyTZsQY
 5. https://vimeo.com/232659058
 6. https://www.w3schools.com/js/js_function_closures.asp
+
+9/21
+
+1. https://en.wikipedia.org/wiki/Fork_bomb
+2. https://developer.apple.com/arkit/
+3. https://angularjs.org/
+4. https://askubuntu.com/questions/159491/why-did-the-command-make-my-system-lag-so-badly-i-had-to-reboot
+5. https://pimylifeup.com/raspberry-pi-captive-portal/
+6. https://github.com/aframevr/aframe/
+7. http://2ality.com/2014/06/simple-http-server.html
