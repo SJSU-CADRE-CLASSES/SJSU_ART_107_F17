@@ -121,3 +121,12 @@ Resources
 5. https://pimylifeup.com/raspberry-pi-captive-portal/
 6. https://github.com/aframevr/aframe/
 7. http://2ality.com/2014/06/simple-http-server.html
+
+9/26
+
+1. https://aframe.io/docs/0.5.0/introduction/installation.html
+2. https://aframe-vaporwave.glitch.me/
+3. https://aframe.io/docs/0.5.0/components/obj-model.html
+4. https://news.feltzine.us/
+5. https://en.wikipedia.org/wiki/COLLADA
+6. https://www.youtube.com/watch?v=rkAMQBRAqhE
