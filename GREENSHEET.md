@@ -86,9 +86,9 @@ Schedule
 | 09/14               | Workshop Day (working on your first project) |
 | *Week 5* 09/19      | **First Project DUE** **Presentation Day  ---> Student Presentation of First Project** |
 | 00/21               | **Presentation Day  ---> Student Presentation of First Project** |
-| *Week 6* 09/26      | EQJS: 6 + 7 ** JS Lesson 4 ** Class Exercise ** Assign: Reading Three |
-| 09/28               | **Due: Reading Three** Screen: Related Videos ** Assign: Project Two|
-| *Week 7* 10/03      | EQJS: 8 + 9 ** JS Lesson 5 ** In Class Ideation + Concepts for Project Two |
+| *Week 6* 09/26      | ** JS Lesson 4 ** Class Exercise ** Assign: Reading Three |
+| 09/28               | Assign: Reading Three [link](https://schloss-post.com/pretend-bot-rehumanize-web/) ** EQJS: 6 + 7  ** Assign: Project Two|
+| *Week 7* 10/03      | **Due: Reading Three** EQJS: 8 + 9 ** JS Lesson 5 ** In Class Ideation + Concepts for Project Two |
 | 10/05               | **Due: Ideation for Project Two** JS Problem Solving/Workshop Day |
 | *Week 8* 010/10     | EQJS: 10 + 11 ** JS Lesson 6 ** Assign: Reading Four |
 | 10/12               | **Due: Reading Four** ** Screen: Related Work |
