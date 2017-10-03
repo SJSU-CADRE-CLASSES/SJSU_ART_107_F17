@@ -1,0 +1,7 @@
+# Reading Three
+
+What I liked most about the _Pretend to Be a Bot, Rehumanize the Web_ article was how _Sebastian Schmieg_ raises so many questions about AI, I had not thought about previously. Throughout the interview he discusses many aspects of how our online and offline realities are shaped by the technologies we use. Schmieg considers human beings as extensions of computer softwares; Uber is the perfect example for this scenario. 
+
+Assuming Schmieg's statement is correct, it is a two way street I believe. We are extensions if computer softwares, yet they are the extensions of humans as well. We train our machines and computing systems to be more intelligent so we can rely on them more. We program the machines and end up letting them program us. Personally, I don't believe in digital labor. We agree to the 'terms and conditions' of different digital platforms when we sign up for them and digital labor is a consequence of that agreement. we have to feed undesirable data to the machines to receive the data we desire for from them.
+
+One of the interesting questions that was brought up in this article was "Can artificial intelligence create art?". I firmly believe the answer is no. Art is a result of consciousness expression. AI is math and it is always going to lack humanity and sensation. Recreating in the style of a specific art form is something that can be taught therefore machines can easily learn that as well. I like to consider artificial intelligences that create art as art technicians or practitioners. Humans are the only true artists.
