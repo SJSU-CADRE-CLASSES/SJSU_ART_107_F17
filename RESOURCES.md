@@ -130,3 +130,13 @@ Resources
 4. https://news.feltzine.us/
 5. https://en.wikipedia.org/wiki/COLLADA
 6. https://www.youtube.com/watch?v=rkAMQBRAqhE
+
+10/3
+
+1. https://www.youtube.com/watch?v=8pX9F5vyILU
+2. http://i-will-say-whatever-you-want-in-front-of-a-pizza.schloss-post.com/
+3. http://slimedaughter.com/games/twine/execution/
+4. https://www.google.com/search?q=shop+dropping&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjRqevomdXWAhVJx1QKHccoAewQ_AUICigB&biw=1492&bih=728#imgrc=pKIR0TPF_rp5DM:
+5. http://slimedaughter.com/games/
+6. https://www.youtube.com/watch?v=H7d_kYhNiEw
+7. https://www.youtube.com/watch?v=-qjNStqD7xY
