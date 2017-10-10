@@ -90,7 +90,7 @@ Schedule
 | 09/28               | Assign: Reading Three [https://schloss-post.com/pretend-bot-rehumanize-web/](https://schloss-post.com/pretend-bot-rehumanize-web/) ** EQJS: 6 + 7  ** Assign: Project Two|
 | *Week 7* 10/03      | **Due: Reading Three** EQJS: 6 ** JS Lesson 5 ** In Class Ideation + Concepts for Project Two |
 | 10/05               | EQJS: 6 **Due: Ideation for Project Two** JS Problem Solving/Workshop Day |
-| *Week 8* 010/10     | EQJS: 7 ** JS Lesson 6 ** Assign: Reading Four |
+| *Week 8* 010/10     | EQJS: 7 ** JS Lesson 6 ** Reading Four: [http://www.e-flux.com/architecture/post-internet-cities/140712/on-the-internet-no-one-knows-you-re-a-doghouse/](http://www.e-flux.com/architecture/post-internet-cities/140712/on-the-internet-no-one-knows-you-re-a-doghouse/) ** work in class |
 | 10/12               | EQJS: 8 **Due: Reading Four** ** Screen: Related Work |
 | *Week 9* 10/17      | EQJS: 9 + 10 ** JS Lesson 7 ** Work in class on Project Two |
 | 10/19               | **Second Project DUE** **Presentation Day ---> Student Presentation of Second Project** |
