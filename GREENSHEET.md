@@ -81,7 +81,7 @@ Schedule
 | *Week 2* 08/29      | **Due: Discuss reading 1--> Post 400-600 Word Reading Response On Class Git** ** Choose 1-3 sites to discuss from [https://anthology.rhizome.org/](https://anthology.rhizome.org/) for Reading 1 ** EQJS: 1 + 2 ** JS Lesson 1 |
 | 08/31               | JS Lesson 1 Extended ** Screen related works ** Assign: Assignment One ** Assign: Project One |
 | *Week 3* 09/05      | **Due: JS Assignment One** ** EQJS: 3 + 4 ** JS Lesson 2 ** Class exercise/JS Problem Solving |
-| 09/07               | Screen related works ** Ideas + Concepts for the first project (each student must come to class with sketches/storyboard/research notes/and concepts they are interested in) ** Assign: Reading Two http://www.vdrome.org/rafman-lopatin.html |
+| 09/07               | Screen related works ** Ideas + Concepts for the first project (each student must come to class with sketches/storyboard/research notes/and concepts they are interested in) ** Assign: Reading Two http://www.vdrome.org/jesse-mc-lean/ |
 | *Week 4* 09/12      | **Due: Reading Two** ** EQJS: 5 ** JS Lesson 3 |
 | 09/14               | Workshop Day (working on your first project) |
 | *Week 5* 09/19      | **First Project DUE** **Presentation Day  ---> Student Presentation of First Project** |
