@@ -140,3 +140,16 @@ Resources
 5. http://slimedaughter.com/games/
 6. https://www.youtube.com/watch?v=H7d_kYhNiEw
 7. https://www.youtube.com/watch?v=-qjNStqD7xY
+
+10/10
+
+1. http://www.e-flux.com/journal/85/155472/reprogramming-decisionism/
+2. http://www.dictionaryofonlinebehavior.com/index.php
+3. https://www.youtube.com/watch?v=_MMTRH91lck
+4. https://vimeo.com/46620661
+5. http://www.teleportacia.org/war/wara.htm
+6. http://ubu.com/film/greenaway_glass.html
+7. http://text.jodi.org/130.html
+8. https://theinternet.express/
+9. http://helloenjoy.com/projects/papervision3d/
+10. https://www.turbosquid.com/Search/Index.cfm?keyword=&search_type=free&media_typeid=2&=true&page_num=4
