@@ -91,8 +91,8 @@ Schedule
 | *Week 7* 10/03      | **Due: Reading Three** EQJS: 6 ** JS Lesson 5 ** In Class Ideation + Concepts for Project Two |
 | 10/05               | EQJS: 6 **Due: Ideation for Project Two** JS Problem Solving/Workshop Day |
 | *Week 8* 010/10     | EQJS: 7 ** JS Lesson 6 ** Reading Four: [http://www.e-flux.com/architecture/post-internet-cities/140712/on-the-internet-no-one-knows-you-re-a-doghouse/](http://www.e-flux.com/architecture/post-internet-cities/140712/on-the-internet-no-one-knows-you-re-a-doghouse/) ** work in class |
-| 10/12               | EQJS: 8 **Due: Reading Four** ** Screen: Related Work |
-| *Week 9* 10/17      | EQJS: 9 + 10 ** JS Lesson 7 ** Work in class on Project Two |
+| 10/12               | EQJS: 8 ** Screen: Related Work |
+| *Week 9* 10/17      | EQJS: 9 + 10 ** JS Lesson 7 ** **Due: Reading Four** Work in class on Project Two |
 | 10/19               | **Second Project DUE** **Presentation Day ---> Student Presentation of Second Project** |
 | *Week 10* 10/24     | **Presentation Day ---> Student Presentation of Second Project** |
 | 10/26               | EQJS: 14 + 15 ** JS Lesson 8 ** Screen: Related Work ** Assign: Third Project |
