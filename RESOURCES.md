@@ -153,3 +153,6 @@ Resources
 8. https://theinternet.express/
 9. http://helloenjoy.com/projects/papervision3d/
 10. https://www.turbosquid.com/Search/Index.cfm?keyword=&search_type=free&media_typeid=2&=true&page_num=4
+
+### How to host a website with Github
+Video tutorial link: https://www.youtube.com/watch?v=3jt-J4Rc__M
