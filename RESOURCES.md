@@ -156,3 +156,17 @@ Resources
 
 ### How to host a website with Github
 Video tutorial link: https://www.youtube.com/watch?v=3jt-J4Rc__M
+
+10/13
+
+1. https://www.youtube.com/watch?v=va2TWYe5QDc
+2. http://www.dictionaryofonlinebehavior.com/index.php
+3. https://www.youtube.com/watch?v=47LCLoidJh4
+4. https://vimeo.com/15821484
+5. http://www.nytimes.com/interactive/2012/11/11/sunday-review/counties-moving.html
+6. https://www.youtube.com/watch?v=4gIhRkCcD4U
+7. http://www.jennyvogel.net/beautyofallthings.html
+8. http://blog.blprnt.com/
+9. https://research.fb.com/publications/
+10. https://research.google.com/
+11. https://domino.research.ibm.com/library/cyberdig.nsf/papers?SearchView&Query=(ai)&SearchMax=10
