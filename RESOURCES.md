@@ -170,3 +170,4 @@ Video tutorial link: https://www.youtube.com/watch?v=3jt-J4Rc__M
 9. https://research.fb.com/publications/
 10. https://research.google.com/
 11. https://domino.research.ibm.com/library/cyberdig.nsf/papers?SearchView&Query=(ai)&SearchMax=10
+12. https://www.youtube.com/watch?v=JDAdQV4YWRc (A-Frame Animation Tutorial)
