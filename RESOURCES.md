@@ -173,15 +173,38 @@ Video tutorial link: https://www.youtube.com/watch?v=3jt-J4Rc__M
 12. https://www.youtube.com/watch?v=JDAdQV4YWRc (A-Frame Animation Tutorial)
 
 10/17
-https://vimeo.com/194517292
-https://vimeo.com/82085374
-https://news.feltzine.us/
-https://www.wired.com/2012/04/an-essay-on-the-new-aesthetic/
-http://img.hungertv.com/wp-content/uploads/2016/07/Cpwikirucp-784x1046.jpg
-https://twitter.com/globaltimesnews/status/919812422612926464
-https://www.producthunt.com/alternatives/blocks-by-google-2
-http://store.steampowered.com/app/504650/MasterpieceVR/
-https://www.youtube.com/watch?v=bcXiwNjkhxU
-http://cyberneticserendipity.net/
-https://www.youtube.com/watch?v=1TX81cRqfUU
+1. https://vimeo.com/194517292
+2. https://vimeo.com/82085374
+3. https://news.feltzine.us/
+4. https://www.wired.com/2012/04/an-essay-on-the-new-aesthetic/
+5. http://img.hungertv.com/wp-content/uploads/2016/07/Cpwikirucp-784x1046.jpg
+6. https://twitter.com/globaltimesnews/status/919812422612926464
+7. https://www.producthunt.com/alternatives/blocks-by-google-2
+8. http://store.steampowered.com/app/504650/MasterpieceVR/
+9. https://www.youtube.com/watch?v=bcXiwNjkhxU
+10. http://cyberneticserendipity.net/
+11. https://www.youtube.com/watch?v=1TX81cRqfUU
 
+bonus
+1. https://www.youtube.com/channel/UCzNZlJzmjomyl00ewlxHqOA
+2. http://kouheinakama.com/
+3. http://www.zeitguised.com/
+4. https://vimeo.com/alexmcleod
+5. https://vimeo.com/nichamilton
+6. http://ricksilva.net/
+7. https://vimeo.com/davegrafix
+8. https://vimeo.com/davefothergillvfx
+9. https://vimeo.com/ftarczewski
+10. http://omoss.io/
+11. http://mikepelletier.net/
+12. http://www.jessekanda.com/
+13. http://www.geoffreylillemon.com/website/
+14. https://vimeo.com/134187914
+15. http://www.barrydoupe.ca/
+16. https://vimeo.com/duhreal
+17. http://www.chrislandreth.com/
+18. https://vimeo.com/user3946359
+19. http://www.alandal.co.uk/
+20. http://kimlaughton.tumblr.com/
+21. http://classic.rhizome.org/portfolios/artwork/53981/ and http://archive.rhizome.org/artbase/53981/nastynets.com/
+22. https://en.wikipedia.org/wiki/Steven_Dietz
