@@ -171,3 +171,17 @@ Video tutorial link: https://www.youtube.com/watch?v=3jt-J4Rc__M
 10. https://research.google.com/
 11. https://domino.research.ibm.com/library/cyberdig.nsf/papers?SearchView&Query=(ai)&SearchMax=10
 12. https://www.youtube.com/watch?v=JDAdQV4YWRc (A-Frame Animation Tutorial)
+
+10/17
+https://vimeo.com/194517292
+https://vimeo.com/82085374
+https://news.feltzine.us/
+https://www.wired.com/2012/04/an-essay-on-the-new-aesthetic/
+http://img.hungertv.com/wp-content/uploads/2016/07/Cpwikirucp-784x1046.jpg
+https://twitter.com/globaltimesnews/status/919812422612926464
+https://www.producthunt.com/alternatives/blocks-by-google-2
+http://store.steampowered.com/app/504650/MasterpieceVR/
+https://www.youtube.com/watch?v=bcXiwNjkhxU
+http://cyberneticserendipity.net/
+https://www.youtube.com/watch?v=1TX81cRqfUU
+
