@@ -3,7 +3,7 @@
 Department of Art and Art History
 Art 107, Fall 2017
 
-![gif](http://i.imgur.com/TuOehiT.gif)
+![gif](https://media.giphy.com/media/zErOCLLKebX0c/giphy.gif)
 
 Instructor: Andrew Blanton
 Office: Art 311
