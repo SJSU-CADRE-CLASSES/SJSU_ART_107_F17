@@ -1,1 +1,1 @@
-<p>artofant.me/project2/</p>
+<a href="artofant.me/project2/">Link to my project2 page!</a>
