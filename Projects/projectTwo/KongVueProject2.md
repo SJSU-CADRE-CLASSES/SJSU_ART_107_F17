@@ -1,4 +1,4 @@
-http://kongvue.com/Project02/index.html
+http://kongvue.com/Project02/project02index.html
 
 <!DOCTYPE html>
 <html>
