@@ -1,4 +1,4 @@
-#Team Members:
+# Team Members:
 ### Roya Ebtehaj
 ### Leily Khatibi
 ### Michael Yue
