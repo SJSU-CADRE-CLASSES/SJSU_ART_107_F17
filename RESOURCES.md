@@ -208,3 +208,10 @@ bonus
 20. http://kimlaughton.tumblr.com/
 21. http://classic.rhizome.org/portfolios/artwork/53981/ and http://archive.rhizome.org/artbase/53981/nastynets.com/
 22. https://en.wikipedia.org/wiki/Steven_Dietz
+
+10/26
+1. https://vimeo.com/38505448
+2. http://thisdavej.com/beginners-guide-to-installing-node-js-on-a-raspberry-pi/
+3. https://www.youtube.com/watch?v=bjULmG8fqc8
+4. https://pimylifeup.com/raspberry-pi-captive-portal/
+5. https://github.com/occupyhere/occupy.here/wiki/How-to-build-Occupy.here
