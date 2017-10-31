@@ -1,4 +1,4 @@
-Currently not working due ot error 403 when using my model sculpted and exported from Blender as a glTF file. I have since been 
-troubleshootin and got it work as an obj without a texture though:/ I am rewriting in 3js since its not too difficult and can have it up before the weekend hopefully.
+I simplified and re-did my project. Instead of a complicated crazy visual piece, I updated to a minimal for impactful piece. 
+I chose to use the VR envrionment like a gallery environment, except I took advantage of being able to suspend objects in space to make an orb. The orb illustrates the cycle of life. This orb is incomplete with many holes where skulls don't exist. This void is where life should be, but isn't, I think death, and being surornded by it is what makes us feel life. It's almost biblical but in a sense, death is life best invention, when stepping back and viewing the cycle of life, it is death that really illustrates the void of life, the value of life. I kept everything very white and minimal to give the user a feeling of calmness and eerie feeling so we can be comfortable with death, and with the power to acknowledge it, so we can treat every moment of our time before it's passed.
 
-emiliodean.com/tech
+emiliodean.com/skulls
