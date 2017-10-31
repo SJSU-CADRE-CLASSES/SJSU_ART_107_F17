@@ -95,10 +95,10 @@ Schedule
 | *Week 9* 10/17      | EQJS: 9 + 10 ** JS Lesson 7 ** **Due: Reading Four** Work in class on Project Two |
 | 10/19               | *EQJS: 9 + 10 ** JS Lesson 7 Work in class on Project Two  | 
 | *Week 10* 10/24     | **Presentation Day ---> Student Presentation of Second Project** |
-| 10/26               | EQJS: 14 + 15 ** JS Lesson 8 ** Screen: Related Work ** Assign: Third Project |
-| *Week 11* 10/31     | EQJS: 16 + 17 ** JS Lesson 9 |
-| 11/02               | Show and Tell: Different JS Components  (Student Presentations) ** Assign: Reading Five |
-| *Week 12* 11/07     | **Due: Reading Five** ** EQJS: 18 + 19 ** JS Lesson 10 |
+| 10/26               | **Presentation Day ---> Student Presentation of Second Project** |
+| *Week 11* 10/31     | ** Screen: Related Work ** JS Lesson 9 intro to pi ** Assign: Third Project |
+| 11/02               | ** EQJS: 10 ** Assign: Reading Five |
+| *Week 12* 11/07     | **Due: Reading Five** ** EQJS: 10 ** JS Lesson 10 |
 | 11/09               | Screen Inspiration Videos + discussion ** Work in class on projects |
 | *Week 13* 11/14     | EQJS: 20 + 21 ** JS Lesson 11 ** Workshop day for third Project ** Assign: Introduction of Final|
 | 11/16               | Workshop day or Optional ATC in MLK |
