@@ -215,3 +215,18 @@ bonus
 3. https://www.youtube.com/watch?v=bjULmG8fqc8
 4. https://pimylifeup.com/raspberry-pi-captive-portal/
 5. https://github.com/occupyhere/occupy.here/wiki/How-to-build-Occupy.here
+
+10/31
+1. https://www.raspberrypi.org/blog/sisyphus-kinetic-art-table/
+2. https://www.raspberrypi.org/blog/autocomplete-poetry/
+3. https://vimeo.com/109334456
+4. https://holokit.io/
+5. http://greyisgood.eu/notes/1071
+6. https://www.youtube.com/watch?v=dD36IajCz6A
+7. https://www.youtube.com/watch?v=SyIJJr6Ldg8
+8. http://www.fireythings.com/product/shared-curated-by-molly-soda-sara-sutterlin
+9. http://mollysoda.exposed/
+10. http://main.bradtroemel.com/
+11. https://www.youtube.com/watch?v=u8I6qt_Z0Cg&t=6
+12. https://www.open-mesh.org/projects/open-mesh/wiki
+13. http://www.creativeapplications.net/
