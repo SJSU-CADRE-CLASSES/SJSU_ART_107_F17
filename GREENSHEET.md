@@ -97,7 +97,7 @@ Schedule
 | *Week 10* 10/24     | **Presentation Day ---> Student Presentation of Second Project** |
 | 10/26               | **Presentation Day ---> Student Presentation of Second Project** |
 | *Week 11* 10/31     | ** Screen: Related Work ** JS Lesson 9 intro to pi ** Assign: Third Project |
-| 11/02               | ** EQJS: 10 ** Assign: Reading Five |
+| 11/02               | ** EQJS: 10 ** Assign: https://docs.google.com/document/d/1ndd-siDAAiAT1i_zzrG9ACiz5ISastLYvtUrlwyVbqM/edit#heading=h.xp2dduy9ed6v (Read main question and three to five responses) |
 | *Week 12* 11/07     | **Due: Reading Five** ** EQJS: 10 ** JS Lesson 10 |
 | 11/09               | Screen Inspiration Videos + discussion ** Work in class on projects |
 | *Week 13* 11/14     | EQJS: 20 + 21 ** JS Lesson 11 ** Workshop day for third Project ** Assign: Introduction of Final|
