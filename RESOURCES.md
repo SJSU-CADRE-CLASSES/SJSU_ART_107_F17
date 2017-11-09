@@ -230,3 +230,9 @@ bonus
 11. https://www.youtube.com/watch?v=u8I6qt_Z0Cg&t=6
 12. https://www.open-mesh.org/projects/open-mesh/wiki
 13. http://www.creativeapplications.net/
+
+11/7
+1. http://www.powerpyx.com/ourmine-are-back-youtube-hack-explained-channels-under-attack/
+2. https://www.google.com/imgres?imgurl=http://www.thelongtail.com/conceptual.jpg&imgrefurl=http://www.longtail.com/about.html&h=361&w=498&tbnid=3aSzQFFguZuHHM:&tbnh=145&tbnw=200&usg=__zVFQYY74VibOqIq7dUL_FfOVA1c=&vet=10ahUKEwiV-ZHkpq3XAhVEllQKHYW7Dm4Q_B0IpAEwEw..i&docid=zZaw5Y_wnhxtnM&itg=1&sa=X&ved=0ahUKEwiV-ZHkpq3XAhVEllQKHYW7Dm4Q_B0IpAEwEw
+3. https://en.wikipedia.org/wiki/Zero-day_(computing)
+4. https://www.youtube.com/watch?v=tWdgAMYjYSs
