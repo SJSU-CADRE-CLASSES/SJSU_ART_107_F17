@@ -18,6 +18,9 @@ var random_gen_code;
 //textbox for user to input other people's code
 var otherIDs_txbox;
 
+//text box for read-only follows
+var follower_txbox = ;
+
 var log_in_div = document.querySelector("#log_in");
 
   //document.getElementsByTagName("body").innerHTML = "heelo";
@@ -27,6 +30,7 @@ var log_in_div = document.querySelector("#log_in");
 //remove textbox where name was 
 //insert a new label with the name where textbox use to be
 //remove and create a new button
+//create html elements for the page 
 function login_btn() {
   personName = document.getElementById("person_name").value;
   
@@ -60,6 +64,13 @@ function login_btn() {
   // console.log(code_txbox);
 
   //create a text box for user to enter other people's code
+  otherIDs_txbox = document.createElement("INPUT");
+  otherIDs_txbox.setAttribute("name", "other ids");
+  otherIDs_txbox.setAttribute("value", "other people's ids goes here")
+  log_in_div.appendChild(otherIDs_txbox);
+
+  //create textbox for followers
+
 
 }
 
