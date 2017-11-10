@@ -7,35 +7,59 @@ const hungry = 50;
 const starving = 25;
 const dead = 0;
 
-var tname;
+var personName;
 var hungry_state;
+var second_btn;
 
+//random id and its read-only textbox
+var code_txbox;
+var random_gen_code;
 
+//text
+
+var log_in_div = document.querySelector("#log_in");
 
   //document.getElementsByTagName("body").innerHTML = "heelo";
 
+
+//store name into a variable
+//remove textbox where name was 
+//insert a new label with the name where textbox use to be
+//remove and create a new button
 function login_btn() {
   personName = document.getElementById("person_name").value;
-  //document.getElementById("person_name").value = "";
   
-  document.querySelector("#log_in").removeChild(document.querySelector("#person_name"));
+  log_in_div.removeChild(document.querySelector("#person_name"));
 
     var name_label = document.createElement("LABEL");
     var name_label_text = document.createTextNode(personName);
     name_label.appendChild(name_label_text);
 
   document.querySelector("#log_in").insertBefore(name_label,document.querySelector("#submit_btn"));
-  //document.querySelector(".person_name");
+  console.log(personName);
 
 
-    // var x = document.createElement("LABEL");
-    // var t = document.createTextNode(personName);
-    // x.setAttribute("for", "male");
-    // x.appendChild(t);
-    // document.getElementById("myForm").insertBefore(x,document.getElementById("male"));
+  //remove the first button
+  //create a new button for new page
+  log_in_div.removeChild(document.querySelector("#submit_btn"));
+  second_btn =  document.createElement("BUTTON");
+  //create a text node for button
+  second_btn_txt = document.createTextNode("second btn");
+  second_btn.appendChild(second_btn_txt);
+  log_in_div.appendChild(second_btn);
 
-  
-console.log("personName");
+  //call the makeid function
+  makeid();
+
+  //create a read-only text box
+  code_txbox = document.createElement("INPUT");
+  code_txbox.setAttribute("value", random_gen_code);
+  code_txbox.setAttribute("readonly", "true");
+  log_in_div.appendChild(code_txbox);
+  // console.log(code_txbox);
+
+  //create a text box for user to enter other people's code
+
 }
 
 
@@ -91,7 +115,7 @@ function makeid() {
   					//get char	//round the number//0 to 1 * 64
     text += possible.charAt(Math.floor(Math.random() * possible.length));
 
-  return text;
+  random_gen_code = text;
 }
 
 // console.log(makeid());
