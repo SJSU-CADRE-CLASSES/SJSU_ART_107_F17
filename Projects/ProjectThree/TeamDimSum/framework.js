@@ -19,7 +19,7 @@ var random_gen_code;
 var otherIDs_txbox;
 
 //text box for read-only follows
-var follower_txbox = ;
+var follower_txbox;
 
 var log_in_div = document.querySelector("#log_in");
 
