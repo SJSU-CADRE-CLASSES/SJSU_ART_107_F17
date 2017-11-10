@@ -15,11 +15,14 @@ var second_btn;
 var userID_txbox;
 var random_gen_code;
 
-//textbox for user to input other people's code
+//variable for a textbox for user to input other people's code
 var otherIDs_txbox;
 
-//text box for read-only follows
+//variable for a textbox for read-only follows
 var follower_txbox;
+
+//variable for a textbox for currency
+var currency_txbox;
 
 var log_in_div = document.querySelector("#log_in");
 
@@ -70,8 +73,12 @@ function login_btn() {
   log_in_div.appendChild(otherIDs_txbox);
 
   //create textbox for followers
+  follower_txbox = document.createElement("INPUT");
+  follower_txbox.setAttribute("value", "no followers so far");
+  follower_txbox.setAttribute("readonly", "true");
+  log_in_div.appendChild(follower_txbox);
 
-
+  //creat a 
 }
 
 
