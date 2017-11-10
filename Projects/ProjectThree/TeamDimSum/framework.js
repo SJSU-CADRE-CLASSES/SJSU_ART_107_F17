@@ -6,6 +6,7 @@ const gettingHungry = 75;
 const hungry = 50;
 const starving = 25;
 const dead = 0;
+const currency = 50;
 
 var personName;
 var hungry_state;
@@ -24,7 +25,19 @@ var follower_txbox;
 //variable for a textbox for currency
 var currency_txbox;
 
+//variable for hungerbar (use txt bar for now)
+var hungerbar_txbox;
+
 var log_in_div = document.querySelector("#log_in");
+
+//variable for feed button
+var feed_btn; 
+
+//variable for play button
+var play_btn;
+
+//variable for sleep button
+var sleep_btn;
 
   //document.getElementsByTagName("body").innerHTML = "heelo";
 
@@ -34,7 +47,7 @@ var log_in_div = document.querySelector("#log_in");
 //insert a new label with the name where textbox use to be
 //remove and create a new button
 //create html elements for the page 
-function login_btn() {
+function login() {
   personName = document.getElementById("person_name").value;
   
   log_in_div.removeChild(document.querySelector("#person_name"));
@@ -47,21 +60,14 @@ function login_btn() {
   console.log(personName);
 
 
-  //remove the first button
-  //create a new button for new page
-  log_in_div.removeChild(document.querySelector("#submit_btn"));
-  second_btn =  document.createElement("BUTTON");
-  //create a text node for button
-  second_btn_txt = document.createTextNode("second btn");
-  second_btn.appendChild(second_btn_txt);
-  log_in_div.appendChild(second_btn);
+
 
   //call the makeid function
   makeid();
 
   //create a read-only text box
   userID_txbox = document.createElement("INPUT");
-  userID_txbox.setAttribute("value", random_gen_code);
+  userID_txbox.setAttribute("value", "Your id is: " + random_gen_code);
   userID_txbox.setAttribute("readonly", "true");
   log_in_div.appendChild(userID_txbox);
   // console.log(code_txbox);
@@ -72,15 +78,57 @@ function login_btn() {
   otherIDs_txbox.setAttribute("value", "other people's ids goes here")
   log_in_div.appendChild(otherIDs_txbox);
 
+    //remove the first button
+  //create a new button for new page
+  log_in_div.removeChild(document.querySelector("#submit_btn"));
+  second_btn =  document.createElement("BUTTON");
+  //create a text node for button
+  second_btn_txt = document.createTextNode("second btn");
+  second_btn.appendChild(second_btn_txt);
+  log_in_div.appendChild(second_btn);
+
   //create textbox for followers
   follower_txbox = document.createElement("INPUT");
   follower_txbox.setAttribute("value", "no followers so far");
   follower_txbox.setAttribute("readonly", "true");
   log_in_div.appendChild(follower_txbox);
 
-  //creat a 
+  //creat a text box for storing currency
+  currency_txbox = document.createElement("INPUT");
+  currency_txbox.setAttribute("value", "Your currency is : $" + currency);
+  currency_txbox.setAttribute("readonly", "true");
+  log_in_div.appendChild(currency_txbox);
+
+  //create hungry bar(using text box for now)
+  hungerbar_txbox = document.createElement("INPUT");
+  hungerbar_txbox.setAttribute("value", "HungryState is: " + hungry);
+  hungerbar_txbox.setAttribute("readonly", "true");
+  log_in_div.appendChild(hungerbar_txbox);
+
+  //create feed button
+  feed_btn = document.createElement("BUTTON");
+  var feed_btn_tx = document.createTextNode("Feed ME");
+  feed_btn.appendChild(feed_btn_tx);
+  log_in_div.appendChild(feed_btn);
+
+  //create play button
+  play_btn = document.createElement("BUTTON");
+  var play_btn_tx = document.createTextNode("Play with ME");
+  play_btn.appendChild(play_btn_tx);
+  log_in_div.appendChild(play_btn);
+
+  //create sleep btn
+  sleep_btn = document.createElement("BUTTON");
+  var sleep_btn_tx = document.createTextNode("Sleep?");
+  sleep_btn.appendChild(sleep_btn_tx);
+  log_in_div.appendChild(sleep_btn);
+
+  //create a 
 }
 
+function addFollowers(){
+
+}
 
 
 
