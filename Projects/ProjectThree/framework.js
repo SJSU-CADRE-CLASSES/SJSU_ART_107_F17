@@ -12,10 +12,11 @@ var hungry_state;
 var second_btn;
 
 //random id and its read-only textbox
-var code_txbox;
+var userID_txbox;
 var random_gen_code;
 
-//text
+//textbox for user to input other people's code
+var otherIDs_txbox;
 
 var log_in_div = document.querySelector("#log_in");
 
@@ -52,10 +53,10 @@ function login_btn() {
   makeid();
 
   //create a read-only text box
-  code_txbox = document.createElement("INPUT");
-  code_txbox.setAttribute("value", random_gen_code);
-  code_txbox.setAttribute("readonly", "true");
-  log_in_div.appendChild(code_txbox);
+  userID_txbox = document.createElement("INPUT");
+  userID_txbox.setAttribute("value", random_gen_code);
+  userID_txbox.setAttribute("readonly", "true");
+  log_in_div.appendChild(userID_txbox);
   // console.log(code_txbox);
 
   //create a text box for user to enter other people's code
