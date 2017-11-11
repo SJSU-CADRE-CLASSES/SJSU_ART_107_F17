@@ -8,9 +8,13 @@ const starving = 25;
 const dead = 0;
 const currency = 50;
 
+var currentFollowers = 0;
+
 var personName;
 var hungry_state;
-var second_btn;
+
+//variable for adding followers
+var follower_btn;
 
 //random id and its read-only textbox
 var userID_txbox;
@@ -55,7 +59,8 @@ function login() {
     var name_label = document.createElement("LABEL");
     var name_label_text = document.createTextNode(personName);
     name_label.appendChild(name_label_text);
-
+    name_label.id = "ij";
+    name_label.style.visibility = "hidden";
   document.querySelector("#log_in").insertBefore(name_label,document.querySelector("#submit_btn"));
   console.log(personName);
 
@@ -81,11 +86,16 @@ function login() {
     //remove the first button
   //create a new button for new page
   log_in_div.removeChild(document.querySelector("#submit_btn"));
-  second_btn =  document.createElement("BUTTON");
+  follower_btn =  document.createElement("BUTTON");
   //create a text node for button
-  second_btn_txt = document.createTextNode("second btn");
-  second_btn.appendChild(second_btn_txt);
-  log_in_div.appendChild(second_btn);
+  follower_btn_txt = document.createTextNode("follower btn");
+  follower_btn.appendChild(follower_btn_txt);
+  log_in_div.appendChild(follower_btn);
+//   follower_btn.onclick = function() {
+//    alert("button was clicked");
+// }​;​
+follower_btn.onclick = function() {addFollowers()};
+
 
   //create textbox for followers
   follower_txbox = document.createElement("INPUT");
@@ -123,10 +133,18 @@ function login() {
   sleep_btn.appendChild(sleep_btn_tx);
   log_in_div.appendChild(sleep_btn);
 
-  //create a 
+
 }
 
+
+
 function addFollowers(){
+  //test is id exist
+  if(otherIDs_txbox.value == "xxxx"){
+    currentFollowers++
+    follower_txbox.value = currentFollowers;
+    otherIDs_txbox.value = "";
+  }
 
 }
 
