@@ -11,8 +11,6 @@ var currency = 50;
 
 var currentFollowers = 0;
 
-var tam_hungry_level;
-
 var personName;
 var hungry_state;
 
@@ -158,12 +156,12 @@ follower_btn.onclick = function() {addFollowers()};
               else{ 
                 console.log("should only run once");
                 clearInterval(start);
-                alert("dead!"); 
+                alert("Your tamagotchi is dead!!!"); 
               }
                 }, 1000);       
 }
 
-//reset everything
+//reset everything by setting them invisible
 function reset(){
 
 }
@@ -207,9 +205,7 @@ var tamagotchi = {
   initialize: function (name) {
     this.name = name;
     this.foodLevel = hungry;
-    //tam_hungry_level = this.foodLevel;
-    //console.log(this.name);
-    //console.log(this.foodLevel);
+
     // play
     //sleep
     //etc
