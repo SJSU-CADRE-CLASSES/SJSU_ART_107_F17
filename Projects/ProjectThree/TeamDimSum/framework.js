@@ -52,6 +52,7 @@ var sleep_btn;
 //remove and create a new button
 //create html elements for the page 
 function login() {
+
   personName = document.getElementById("person_name").value;
   
   log_in_div.removeChild(document.querySelector("#person_name"));
@@ -59,8 +60,8 @@ function login() {
     var name_label = document.createElement("LABEL");
     var name_label_text = document.createTextNode(personName);
     name_label.appendChild(name_label_text);
-    name_label.id = "ij";
-    name_label.style.visibility = "hidden";
+    //name_label.id = "ij";
+    //name_label.style.visibility = "hidden";
   document.querySelector("#log_in").insertBefore(name_label,document.querySelector("#submit_btn"));
   console.log(personName);
 
@@ -134,21 +135,26 @@ follower_btn.onclick = function() {addFollowers()};
   log_in_div.appendChild(sleep_btn);
 
 
+  //set timer and lower hungerbar(same as tamagachi food level)
+var countdown = setInterval(function() {
+
+        tamagotchi.timePasses();
+        hungerbar_txbox.value = tamagotchi.foodLevel;
+        console.log(tamagotchi.foodLevel);
+      }, 1000);
 }
 
 
-
+//method for adding followers 
 function addFollowers(){
-  //test is id exist
+  //test is id exist(for no, test if text is xxxx)
+  //if it does, increase follower count 
   if(otherIDs_txbox.value == "xxxx"){
     currentFollowers++
     follower_txbox.value = currentFollowers;
     otherIDs_txbox.value = "";
   }
-
 }
-
-
 
 var tamagotchi = {
 
@@ -178,7 +184,7 @@ var tamagotchi = {
     }
   },
   feed: function() {
-    this.foodLevel = this.foodLevel + 1
+    this.foodLevel = this.foodLevel + 5
   }//,
   // playUp: function() {
   //   this.playLevel = this.playLevel + 1
@@ -188,10 +194,6 @@ var tamagotchi = {
   // }
 }
 
-
-
-tamagotchi.initialize("apple");
-tamagotchi.timePasses();
 function makeid() {
   var text = "";
   var possible = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
@@ -203,7 +205,23 @@ function makeid() {
   random_gen_code = text;
 }
 
-// console.log(makeid());
+
+
+tamagotchi.initialize("apple");
+ //set a timer which is the interaction 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
