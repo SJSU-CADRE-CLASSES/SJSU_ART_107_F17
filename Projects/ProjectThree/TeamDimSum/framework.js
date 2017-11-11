@@ -6,9 +6,12 @@ const gettingHungry = 75;
 const hungry = 50;
 const starving = 25;
 const dead = 0;
-const currency = 50;
+
+var currency = 50;
 
 var currentFollowers = 0;
+
+var tam_hungry_level;
 
 var personName;
 var hungry_state;
@@ -81,7 +84,7 @@ function login() {
   //create a text box for user to enter other people's code
   otherIDs_txbox = document.createElement("INPUT");
   otherIDs_txbox.setAttribute("name", "other ids");
-  otherIDs_txbox.setAttribute("value", "other people's ids goes here")
+  otherIDs_txbox.setAttribute("value", "Add other id here")
   log_in_div.appendChild(otherIDs_txbox);
 
     //remove the first button
@@ -112,7 +115,7 @@ follower_btn.onclick = function() {addFollowers()};
 
   //create hungry bar(using text box for now)
   hungerbar_txbox = document.createElement("INPUT");
-  hungerbar_txbox.setAttribute("value", "HungryState is: " + hungry);
+  hungerbar_txbox.setAttribute("value", "Hungry level is: " + tamagotchi.foodLevel);
   hungerbar_txbox.setAttribute("readonly", "true");
   log_in_div.appendChild(hungerbar_txbox);
 
@@ -121,6 +124,7 @@ follower_btn.onclick = function() {addFollowers()};
   var feed_btn_tx = document.createTextNode("Feed ME");
   feed_btn.appendChild(feed_btn_tx);
   log_in_div.appendChild(feed_btn);
+  feed_btn.onclick = function() {feed_tamagochi()};
 
   //create play button
   play_btn = document.createElement("BUTTON");
@@ -138,30 +142,65 @@ follower_btn.onclick = function() {addFollowers()};
   //set timer and lower hungerbar(same as tamagachi food level)
 var countdown = setInterval(function() {
 
+        if(tamagotchi.foodLevel != 0){
         tamagotchi.timePasses();
-        hungerbar_txbox.value = tamagotchi.foodLevel;
+        hungerbar_txbox.value = "Hungry level is: " + tamagotchi.foodLevel;
         console.log(tamagotchi.foodLevel);
-      }, 1000);
+        }
+        else{
+           clearInterval();
+           reset();
+        }
+          }, 1000);
+        
+    
+}
+
+//reset everything
+function reset(){
+
 }
 
 
-//method for adding followers 
+
+//function for adding followers 
 function addFollowers(){
   //test is id exist(for no, test if text is xxxx)
   //if it does, increase follower count 
-  if(otherIDs_txbox.value == "xxxx"){
+  if(otherIDs_txbox.value != ""){
     currentFollowers++
     follower_txbox.value = currentFollowers;
     otherIDs_txbox.value = "";
+    currency +=10;
+    currency_txbox.value = "Your currency is :$ " + currency;
   }
 }
+
+
+
+//function for feeding tamagochi
+function feed_tamagochi(){
+  if(currency >0){
+  currency-=10;
+  currency_txbox.value = "Your currency is :$ " + currency;
+  tamagotchi.feed();
+  hungerbar_txbox.value = "Hungry level is: " + tamagotchi.foodLevel;
+  console.log(tamagotchi.foodLevel)
+  }
+  else{
+
+  }
+  // console.log(tam_hungry_level);
+}
+
 
 var tamagotchi = {
 
   //name
   initialize: function (name) {
     this.name = name;
-    this.foodLevel = full;
+    this.foodLevel = hungry;
+    //tam_hungry_level = this.foodLevel;
     //console.log(this.name);
     //console.log(this.foodLevel);
     // play
@@ -185,6 +224,7 @@ var tamagotchi = {
   },
   feed: function() {
     this.foodLevel = this.foodLevel + 5
+    //hungerbar_txbox.value = this.foodLevel;
   }//,
   // playUp: function() {
   //   this.playLevel = this.playLevel + 1
