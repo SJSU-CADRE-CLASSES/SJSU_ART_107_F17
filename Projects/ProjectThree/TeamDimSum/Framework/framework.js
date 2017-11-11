@@ -3,7 +3,7 @@
 
 const full = 100;
 const gettingHungry = 75;
-const hungry = 5;
+const hungry = 50;
 const starving = 25;
 const dead = 0;
 
