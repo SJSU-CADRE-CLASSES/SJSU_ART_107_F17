@@ -114,7 +114,7 @@ follower_btn.onclick = function() {addFollowers()};
 
   //creat a text box for storing currency
   currency_txbox = document.createElement("INPUT");
-  currency_txbox.setAttribute("value", "Your currency is : $" + currency);
+  currency_txbox.setAttribute("value", "Your currency is :$ " + currency);
   currency_txbox.setAttribute("readonly", "true");
   log_in_div.appendChild(currency_txbox);
 
@@ -151,19 +151,20 @@ follower_btn.onclick = function() {addFollowers()};
               if(tamagotchi.isAlive() == true){
               tamagotchi.timePasses();
               hungerbar_txbox.value = "Hungry level is: " + tamagotchi.foodLevel;
-              console.log(tamagotchi.foodLevel);
+              //console.log(tamagotchi.foodLevel);
               }
               else{ 
                 console.log("should only run once");
                 clearInterval(start);
-                alert("Your tamagotchi is dead!!!"); 
+                alert("Your tamagotchi is dead!!!");
+                reset() 
               }
                 }, 1000);       
 }
 
 //reset everything by setting them invisible
 function reset(){
-
+location.reload();
 }
 
 
@@ -190,7 +191,7 @@ function feed_tamagochi(){
   currency_txbox.value = "Your currency is :$ " + currency;
   tamagotchi.feed();
   hungerbar_txbox.value = "Hungry level is: " + tamagotchi.foodLevel;
-  console.log(tamagotchi.foodLevel)
+  //console.log(tamagotchi.foodLevel)
   }
   else{
 
