@@ -3,7 +3,7 @@
 
 const full = 100;
 const gettingHungry = 75;
-const hungry = 50;
+const hungry = 5;
 const starving = 25;
 const dead = 0;
 
@@ -54,6 +54,13 @@ var sleep_btn;
 //insert a new label with the name where textbox use to be
 //remove and create a new button
 //create html elements for the page 
+
+
+
+
+
+
+
 function login() {
 
   personName = document.getElementById("person_name").value;
@@ -140,20 +147,20 @@ follower_btn.onclick = function() {addFollowers()};
 
 
   //set timer and lower hungerbar(same as tamagachi food level)
-var countdown = setInterval(function() {
+//if(tamagotchi.isAlive() == true){
+     var start =  setInterval(function() {
 
-        if(tamagotchi.foodLevel != 0){
-        tamagotchi.timePasses();
-        hungerbar_txbox.value = "Hungry level is: " + tamagotchi.foodLevel;
-        console.log(tamagotchi.foodLevel);
-        }
-        else{
-           clearInterval();
-           reset();
-        }
-          }, 1000);
-        
-    
+              if(tamagotchi.isAlive() == true){
+              tamagotchi.timePasses();
+              hungerbar_txbox.value = "Hungry level is: " + tamagotchi.foodLevel;
+              console.log(tamagotchi.foodLevel);
+              }
+              else{ 
+                console.log("should only run once");
+                clearInterval(start);
+                alert("dead!"); 
+              }
+                }, 1000);       
 }
 
 //reset everything
