@@ -1,0 +1,7 @@
+I think its really interesting to hear the different responses from all those who had contributed. Some approached the question in a positive light while others didn’t and some had a lot to say while some said very little. 
+
+The first response that I agree with is by Angeles Saura from Universidad Autonoma de Madrid. As an educator she expresses that people are free to learn and enjoy equally. We all have the right to use the internet but not everyone does. Not everyone takes advantage of the times we live in now while others do.  All artists have the opportunity to publish their works online without any barriers of entry. In that way the internet is definitely democratic; as it implies the existence of freedom and equality. 
+
+I really do agree with this. Everyone has the same opportunities, its just not everyone makes the most of it. We all could learn the same things. I feel like most art teachers mostly care about teaching fundamentals and concepts because post-internet art is always changing. There are always new terms, shortcuts, programs that shape the way we work. 
+
+This leads into Timothy Smith’s response from Aalto University. He is more concerned with the foundation of curriculum in new media art. He questions how one can create a solid foundation when everything is changing at such an alarming rate. Post-internet course in contemporary art are rarely fixed nor stable due to their constantly evolving conventions and the speed in which shifts emerge. 
