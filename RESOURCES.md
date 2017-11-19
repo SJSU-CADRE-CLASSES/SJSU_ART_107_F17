@@ -236,3 +236,22 @@ bonus
 2. https://www.google.com/imgres?imgurl=http://www.thelongtail.com/conceptual.jpg&imgrefurl=http://www.longtail.com/about.html&h=361&w=498&tbnid=3aSzQFFguZuHHM:&tbnh=145&tbnw=200&usg=__zVFQYY74VibOqIq7dUL_FfOVA1c=&vet=10ahUKEwiV-ZHkpq3XAhVEllQKHYW7Dm4Q_B0IpAEwEw..i&docid=zZaw5Y_wnhxtnM&itg=1&sa=X&ved=0ahUKEwiV-ZHkpq3XAhVEllQKHYW7Dm4Q_B0IpAEwEw
 3. https://en.wikipedia.org/wiki/Zero-day_(computing)
 4. https://www.youtube.com/watch?v=tWdgAMYjYSs
+
+11/14
+1. https://vimeo.com/195036249
+2. https://www.salon.com/2002/03/01/netochka/
+3. http://www.rinopetrozziello.altervista.org/pics/cibobruciato.png
+4. https://web.archive.org/web/20020530124240/http://eusocial.com:80/nebula.m81/cmj.24-3.html
+5. https://transmediale.de/content/netochka-nezvanova-0
+6. http://steim.org/
+7. http://www.nettime.org/Lists-Archives/nettime-bold-0101/msg00248.html
+8. https://www.google.com/search?q=phil+stearns&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjmmpfpsLLXAhWqgFQKHd3xDwIQ_AUICygC&biw=1147&bih=833#imgdii=5SGI2Oo0Jzuh9M:&imgrc=1PbB-cbFmQZLzM:
+9. https://www.youtube.com/watch?v=EIkzCzGAAQE
+10. https://vimeo.com/17414202
+11. http://www.anthonyantonellis.com/
+12. https://www.google.com/search?q=mechanical+computer&source=lnms&tbm=isch&sa=X&ved=0ahUKEwihlsDXrrLXAhUrslQKHeYnCukQ_AUICygC&biw=1147&bih=833
+13. http://tekspost.no/pipermail/syndicate/2003-March/015705.html
+14. http://2ality.com/2014/06/simple-http-server.html
+
+11/16
+1.https://github.com/chootka/subnodes
