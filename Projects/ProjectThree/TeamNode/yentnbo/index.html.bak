@@ -1,0 +1,522 @@
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+<!-- saved from url=(0022)https://m.youtube.com/ -->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;">
+<title>YouTube</title>      <link rel="icon" href="https://s.ytimg.com/yts/favicon-vfl8qSV2F.ico" type="image/x-icon">
+<link rel="shortcut icon" href="https://s.ytimg.com/yts/favicon-vfl8qSV2F.ico" type="image/x-icon">
+<link rel="canonical" href="http://www.youtube.com/">
+<style type="text/css">
+/* <![CDATA[ */
+a:link,a:visited,a:hover {text-decoration:none;color:#0033CC}
+.videoListItem:active {background:#EEE}
+.videoListItem:hover {background:#EEE;cursor:pointer}
+/* ]]> */
+</style>
+<script type="text/javascript">
+/* <![CDATA[ */
+if(typeof ytm == "undefined") var ytm = {};
+ytm.startTime = new Date().getTime();
+ytm.iref = {};
+ytm.nextiref_ = 1;
+ytm.isOn3g_ = function() {
+if (navigator.connection && navigator.connection.type) {
+return navigator.connection.type != navigator.connection.WIFI;
+}
+return 0
+};
+ytm.sendPlaybackPing = function(encrypted_video_id, fmt) {
+setTimeout(function() {
+var img = new Image();
+var id = ytm.nextiref_++;
+ytm.iref[id] = img;
+img.onload = img.onerror = function() {
+delete ytm.iref[id];
+};
+img.src = "/gen_204?"+[
+"app=youtube_mobile",
+"el=",
+(fmt ? "fmt="+fmt : ""),
+"gl=US",
+"hl=en",
+"on3g="+(ytm.isOn3g_() ? 1 : 0),
+"plid=",
+"ps=mobile",
+"rdm="+(new Date().getTime()%10000),
+"video_id="+encrypted_video_id
+].join("&");
+img = null;
+}, 0);
+return true;
+};
+var pos = window.location.href.indexOf('#/');
+if (pos > 0) {
+window.location.replace('//' + window.location.host + window.location.href.substr(pos + 1));
+}
+/* ]]> */
+</script>
+</head>
+<body style="margin:0;background-color:#fff;font-family:sans-serif;font-size:13px;color:#333">
+<table width="100%" cellspacing="0">
+<tbody><tr>
+<td valign="top" style="padding: 6px 5px 2px 5px; font-size: 0">
+<img src="img/logo.gif" width="90" height="20" style="border:0;margin:0px;">
+<a id="top"></a>
+</td>
+<td align="right" valign="middle" style="padding-right: 3px">
+<span style="color:#000000"><a id="sign-in-header" href="404.html">Sign in</a></span>
+</td>
+</tr>
+</tbody></table>
+<div style="margin-left:3px;margin-right:3px">
+
+
+<form id="searchForm" action="404.html" method="get" style="padding:5px 0">
+<div>
+<input name="hl" type="hidden" value="en">
+<input name="client" type="hidden" value="mv-google">
+<input name="gl" type="hidden" value="US">
+<input accesskey="*" name="q" type="text" size="15" maxlength="128" style="width:65%;padding:0;font-family:sans-serif;color:#333" value="">
+<input type="submit" name="submit" value="Search" style="margin-top:2px;padding:0;font-size:100%;color:black">
+</div>
+</form>
+</div>
+<div style="margin-left:3px;padding:3px;margin-right:3px">
+
+</div>
+<div style="margin-left:3px;padding:3px;margin-right:3px">
+
+</div>
+<div>
+<div>
+<hr size="1" noshade="noshade" color="#999" style="width:100%;height:1px;margin:2px 0;padding:0;color:#999;background:#999;border:none;"><table width="100%">
+<tbody><tr valign="top">
+<td colspan="2" style="width:100%;font-size:13px">
+<div style="padding-bottom:1px;text-align:left;font-size:90%" dir="ltr">
+<a href="404.html">
+Trending
+</a>
+</div>
+<div style="padding-bottom:1px;text-align:left;font-size:90%">
+
+</div>
+</td>
+</tr>
+<tr valign="top">
+<td width="125">
+<div>
+<a href="https://m.youtube.com/watch?v=kqmhCaF5_44&amp;itct=CG4QpDAYACITCL7ygr-Pv9cCFUnefgod1_kNETIKZy1oaWdoLXRydloPRkV3aGF0X3RvX3dhdGNo&amp;client=mv-google&amp;gl=US&amp;hl=en">
+<img src="./YouTube_files/default.jpg" alt="video icon" width="120" height="90">
+</a>
+</div>
+</td>
+<td style="width:100%;font-size:13px">
+<div style="padding-bottom:1px;text-align:left;font-size:90%" dir="ltr">
+<a href="https://m.youtube.com/watch?v=kqmhCaF5_44&amp;itct=CG4QpDAYACITCL7ygr-Pv9cCFUnefgod1_kNETIKZy1oaWdoLXRydloPRkV3aGF0X3RvX3dhdGNo&amp;client=mv-google&amp;gl=US&amp;hl=en">
+HANSON - Finally It's Christmas (Official Lyric Video)
+</a>
+</div>
+<div style="font-size:80%;color:#333">
+3:40
+</div>
+<div style="font-size:80%;color:#333">
+HANSON
+</div>
+<div style="font-size:80%;color:#333">
+16,790 views
+</div>
+</td>
+</tr>
+<tr valign="top">
+<td width="125">
+<div>
+<a href="https://m.youtube.com/watch?v=5E4ZBSInqUU&amp;itct=CG0QpDAYASITCL7ygr-Pv9cCFUnefgod1_kNETIKZy1oaWdoLXRydloPRkV3aGF0X3RvX3dhdGNo&amp;client=mv-google&amp;gl=US&amp;hl=en">
+<img src="./YouTube_files/default(1).jpg" alt="video icon" width="120" height="90">
+</a>
+</div>
+</td>
+<td style="width:100%;font-size:13px">
+<div style="padding-bottom:1px;text-align:left;font-size:90%" dir="ltr">
+<a href="https://m.youtube.com/watch?v=5E4ZBSInqUU&amp;itct=CG0QpDAYASITCL7ygr-Pv9cCFUnefgod1_kNETIKZy1oaWdoLXRydloPRkV3aGF0X3RvX3dhdGNo&amp;client=mv-google&amp;gl=US&amp;hl=en">
+Marshmello - Blocks (Official Music Video)
+</a>
+</div>
+<div style="font-size:80%;color:#333">
+3:27
+</div>
+<div style="font-size:80%;color:#333">
+marshmello
+</div>
+<div style="font-size:80%;color:#333">
+1,809,992 views
+</div>
+</td>
+</tr>
+<tr valign="top">
+<td width="125">
+<div>
+<a href="https://m.youtube.com/watch?v=5qpjK5DgCt4&amp;itct=CGwQpDAYAiITCL7ygr-Pv9cCFUnefgod1_kNETIKZy1oaWdoLXRydloPRkV3aGF0X3RvX3dhdGNo&amp;client=mv-google&amp;gl=US&amp;hl=en">
+<img src="./YouTube_files/default(2).jpg" alt="video icon" width="120" height="90">
+</a>
+</div>
+</td>
+<td style="width:100%;font-size:13px">
+<div style="padding-bottom:1px;text-align:left;font-size:90%" dir="ltr">
+<a href="https://m.youtube.com/watch?v=5qpjK5DgCt4&amp;itct=CGwQpDAYAiITCL7ygr-Pv9cCFUnefgod1_kNETIKZy1oaWdoLXRydloPRkV3aGF0X3RvX3dhdGNo&amp;client=mv-google&amp;gl=US&amp;hl=en">
+Racist Superman | Rudy Mancuso, King Bach &amp; Lele Pons
+</a>
+</div>
+<div style="font-size:80%;color:#333">
+9:29
+</div>
+<div style="font-size:80%;color:#333">
+Rudy Mancuso
+</div>
+<div style="font-size:80%;color:#333">
+3,904,565 views
+</div>
+</td>
+</tr>
+<tr valign="top">
+<td width="125">
+<div>
+<a href="https://m.youtube.com/watch?v=pcWKpGzhgq4&amp;itct=CGsQpDAYAyITCL7ygr-Pv9cCFUnefgod1_kNETIKZy1oaWdoLXRydloPRkV3aGF0X3RvX3dhdGNo&amp;client=mv-google&amp;gl=US&amp;hl=en">
+<img src="./YouTube_files/default(3).jpg" alt="video icon" width="120" height="90">
+</a>
+</div>
+</td>
+<td style="width:100%;font-size:13px">
+<div style="padding-bottom:1px;text-align:left;font-size:90%" dir="ltr">
+<a href="https://m.youtube.com/watch?v=pcWKpGzhgq4&amp;itct=CGsQpDAYAyITCL7ygr-Pv9cCFUnefgod1_kNETIKZy1oaWdoLXRydloPRkV3aGF0X3RvX3dhdGNo&amp;client=mv-google&amp;gl=US&amp;hl=en">
+Jason Momoa Shows Off His Aquaman Quindent | The Graham Norton Show
+</a>
+</div>
+<div style="font-size:80%;color:#333">
+2:41
+</div>
+<div style="font-size:80%;color:#333">
+The Graham Norton Show
+</div>
+<div style="font-size:80%;color:#333">
+155,269 views
+</div>
+</td>
+</tr>
+<tr valign="top">
+<td width="125">
+<div>
+<a href="https://m.youtube.com/watch?v=2kyS6SvSYSE&amp;itct=CGoQpDAYBCITCL7ygr-Pv9cCFUnefgod1_kNETIKZy1oaWdoLXRydloPRkV3aGF0X3RvX3dhdGNo&amp;client=mv-google&amp;gl=US&amp;hl=en">
+<img src="./YouTube_files/default(4).jpg" alt="video icon" width="120" height="90">
+</a>
+</div>
+</td>
+<td style="width:100%;font-size:13px">
+<div style="padding-bottom:1px;text-align:left;font-size:90%" dir="ltr">
+<a href="https://m.youtube.com/watch?v=2kyS6SvSYSE&amp;itct=CGoQpDAYBCITCL7ygr-Pv9cCFUnefgod1_kNETIKZy1oaWdoLXRydloPRkV3aGF0X3RvX3dhdGNo&amp;client=mv-google&amp;gl=US&amp;hl=en">
+WE WANT TO TALK ABOUT OUR MARRIAGE
+</a>
+</div>
+<div style="font-size:80%;color:#333">
+11:18
+</div>
+<div style="font-size:80%;color:#333">
+CaseyNeistat
+</div>
+<div style="font-size:80%;color:#333">
+1,962,748 views
+</div>
+</td>
+</tr>
+<tr valign="top">
+<td width="125">
+<div>
+<a href="https://m.youtube.com/watch?v=symdi5KSJts&amp;itct=CGkQpDAYBSITCL7ygr-Pv9cCFUnefgod1_kNETIKZy1oaWdoLXRydloPRkV3aGF0X3RvX3dhdGNo&amp;client=mv-google&amp;gl=US&amp;hl=en">
+<img src="./YouTube_files/default(5).jpg" alt="video icon" width="120" height="90">
+</a>
+</div>
+</td>
+<td style="width:100%;font-size:13px">
+<div style="padding-bottom:1px;text-align:left;font-size:90%" dir="ltr">
+<a href="https://m.youtube.com/watch?v=symdi5KSJts&amp;itct=CGkQpDAYBSITCL7ygr-Pv9cCFUnefgod1_kNETIKZy1oaWdoLXRydloPRkV3aGF0X3RvX3dhdGNo&amp;client=mv-google&amp;gl=US&amp;hl=en">
+Model Fei Fei Sun Perform Skin-Care Magic | Beauty Secrets | Vogue
+</a>
+</div>
+<div style="font-size:80%;color:#333">
+2:47
+</div>
+<div style="font-size:80%;color:#333">
+Vogue
+</div>
+<div style="font-size:80%;color:#333">
+57,480 views
+</div>
+</td>
+</tr>
+<tr valign="top">
+<td width="125">
+<div>
+<a href="https://m.youtube.com/watch?v=puqaWrEC7tY&amp;itct=CGgQpDAYBiITCL7ygr-Pv9cCFUnefgod1_kNETIKZy1oaWdoLXRydloPRkV3aGF0X3RvX3dhdGNo&amp;client=mv-google&amp;gl=US&amp;hl=en">
+<img src="./YouTube_files/default(6).jpg" alt="video icon" width="120" height="90">
+</a>
+</div>
+</td>
+<td style="width:100%;font-size:13px">
+<div style="padding-bottom:1px;text-align:left;font-size:90%" dir="ltr">
+<a href="https://m.youtube.com/watch?v=puqaWrEC7tY&amp;itct=CGgQpDAYBiITCL7ygr-Pv9cCFUnefgod1_kNETIKZy1oaWdoLXRydloPRkV3aGF0X3RvX3dhdGNo&amp;client=mv-google&amp;gl=US&amp;hl=en">
+Nickelback Lyrics: Real or Fake?
+</a>
+</div>
+<div style="font-size:80%;color:#333">
+7:10
+</div>
+<div style="font-size:80%;color:#333">
+Good Mythical Morning
+</div>
+<div style="font-size:80%;color:#333">
+678,468 views
+</div>
+</td>
+</tr>
+<tr valign="top">
+<td width="125">
+<div>
+<a href="https://m.youtube.com/watch?v=39idVpFF7NQ&amp;itct=CGcQpDAYByITCL7ygr-Pv9cCFUnefgod1_kNETIKZy1oaWdoLXRydloPRkV3aGF0X3RvX3dhdGNo&amp;client=mv-google&amp;gl=US&amp;hl=en">
+<img src="./YouTube_files/default(7).jpg" alt="video icon" width="120" height="90">
+</a>
+</div>
+</td>
+<td style="width:100%;font-size:13px">
+<div style="padding-bottom:1px;text-align:left;font-size:90%" dir="ltr">
+<a href="https://m.youtube.com/watch?v=39idVpFF7NQ&amp;itct=CGcQpDAYByITCL7ygr-Pv9cCFUnefgod1_kNETIKZy1oaWdoLXRydloPRkV3aGF0X3RvX3dhdGNo&amp;client=mv-google&amp;gl=US&amp;hl=en">
+Roy Moore &amp; Jeff Sessions Cold Open - SNL
+</a>
+</div>
+<div style="font-size:80%;color:#333">
+4:42
+</div>
+<div style="font-size:80%;color:#333">
+Saturday Night Live
+</div>
+<div style="font-size:80%;color:#333">
+2,349,583 views
+</div>
+</td>
+</tr>
+<tr valign="top">
+<td width="125">
+<div>
+<a href="https://m.youtube.com/watch?v=gjXrm2Q-te4&amp;itct=CGYQpDAYCCITCL7ygr-Pv9cCFUnefgod1_kNETIKZy1oaWdoLXRydloPRkV3aGF0X3RvX3dhdGNo&amp;client=mv-google&amp;gl=US&amp;hl=en">
+<img src="./YouTube_files/default(8).jpg" alt="video icon" width="120" height="90">
+</a>
+</div>
+</td>
+<td style="width:100%;font-size:13px">
+<div style="padding-bottom:1px;text-align:left;font-size:90%" dir="ltr">
+<a href="https://m.youtube.com/watch?v=gjXrm2Q-te4&amp;itct=CGYQpDAYCCITCL7ygr-Pv9cCFUnefgod1_kNETIKZy1oaWdoLXRydloPRkV3aGF0X3RvX3dhdGNo&amp;client=mv-google&amp;gl=US&amp;hl=en">
+Jimmy Fallon Pays Tribute to His Mother Gloria
+</a>
+</div>
+<div style="font-size:80%;color:#333">
+1:16
+</div>
+<div style="font-size:80%;color:#333">
+The Tonight Show Starring Jimmy Fallon
+</div>
+<div style="font-size:80%;color:#333">
+573,681 views
+</div>
+</td>
+</tr>
+<tr valign="top">
+<td width="125">
+<div>
+<a href="https://m.youtube.com/watch?v=kgaO45SyaO4&amp;itct=CGUQpDAYCSITCL7ygr-Pv9cCFUnefgod1_kNETIKZy1oaWdoLXRydloPRkV3aGF0X3RvX3dhdGNo&amp;client=mv-google&amp;gl=US&amp;hl=en">
+<img src="./YouTube_files/default(9).jpg" alt="video icon" width="120" height="90">
+</a>
+</div>
+</td>
+<td style="width:100%;font-size:13px">
+<div style="padding-bottom:1px;text-align:left;font-size:90%" dir="ltr">
+<a href="https://m.youtube.com/watch?v=kgaO45SyaO4&amp;itct=CGUQpDAYCSITCL7ygr-Pv9cCFUnefgod1_kNETIKZy1oaWdoLXRydloPRkV3aGF0X3RvX3dhdGNo&amp;client=mv-google&amp;gl=US&amp;hl=en">
+The New SpotMini
+</a>
+</div>
+<div style="font-size:80%;color:#333">
+0:25
+</div>
+<div style="font-size:80%;color:#333">
+BostonDynamics
+</div>
+<div style="font-size:80%;color:#333">
+2,253,851 views
+</div>
+</td>
+</tr>
+<tr valign="top">
+<td width="125">
+<div>
+<a href="https://m.youtube.com/watch?v=1ZAPwfrtAFY&amp;itct=CGQQpDAYCiITCL7ygr-Pv9cCFUnefgod1_kNETIKZy1oaWdoLXRydloPRkV3aGF0X3RvX3dhdGNo&amp;client=mv-google&amp;gl=US&amp;hl=en">
+<img src="./YouTube_files/default(10).jpg" alt="video icon" width="120" height="90">
+</a>
+</div>
+</td>
+<td style="width:100%;font-size:13px">
+<div style="padding-bottom:1px;text-align:left;font-size:90%" dir="ltr">
+<a href="https://m.youtube.com/watch?v=1ZAPwfrtAFY&amp;itct=CGQQpDAYCiITCL7ygr-Pv9cCFUnefgod1_kNETIKZy1oaWdoLXRydloPRkV3aGF0X3RvX3dhdGNo&amp;client=mv-google&amp;gl=US&amp;hl=en">
+The Trump Presidency: Last Week Tonight with John Oliver (HBO)
+</a>
+</div>
+<div style="font-size:80%;color:#333">
+23:51
+</div>
+<div style="font-size:80%;color:#333">
+LastWeekTonight
+</div>
+<div style="font-size:80%;color:#333">
+4,124,771 views
+</div>
+</td>
+</tr>
+<tr valign="top">
+<td width="125">
+<div>
+<a href="https://m.youtube.com/watch?v=PaJCFHXcWmM&amp;itct=CGMQpDAYCyITCL7ygr-Pv9cCFUnefgod1_kNETIKZy1oaWdoLXRydloPRkV3aGF0X3RvX3dhdGNo&amp;client=mv-google&amp;gl=US&amp;hl=en">
+<img src="./YouTube_files/default(11).jpg" alt="video icon" width="120" height="90">
+</a>
+</div>
+</td>
+<td style="width:100%;font-size:13px">
+<div style="padding-bottom:1px;text-align:left;font-size:90%" dir="ltr">
+<a href="https://m.youtube.com/watch?v=PaJCFHXcWmM&amp;itct=CGMQpDAYCyITCL7ygr-Pv9cCFUnefgod1_kNETIKZy1oaWdoLXRydloPRkV3aGF0X3RvX3dhdGNo&amp;client=mv-google&amp;gl=US&amp;hl=en">
+U2 - The Blackout
+</a>
+</div>
+<div style="font-size:80%;color:#333">
+4:52
+</div>
+<div style="font-size:80%;color:#333">
+U2VEVO
+</div>
+<div style="font-size:80%;color:#333">
+163,551 views
+</div>
+</td>
+</tr>
+<tr valign="top">
+<td width="125">
+<div>
+<a href="https://m.youtube.com/watch?v=L3br0klRqF4&amp;itct=CGIQpDAYDCITCL7ygr-Pv9cCFUnefgod1_kNETIKZy1oaWdoLXRydloPRkV3aGF0X3RvX3dhdGNo&amp;client=mv-google&amp;gl=US&amp;hl=en">
+<img src="./YouTube_files/default(12).jpg" alt="video icon" width="120" height="90">
+</a>
+</div>
+</td>
+<td style="width:100%;font-size:13px">
+<div style="padding-bottom:1px;text-align:left;font-size:90%" dir="ltr">
+<a href="https://m.youtube.com/watch?v=L3br0klRqF4&amp;itct=CGIQpDAYDCITCL7ygr-Pv9cCFUnefgod1_kNETIKZy1oaWdoLXRydloPRkV3aGF0X3RvX3dhdGNo&amp;client=mv-google&amp;gl=US&amp;hl=en">
+Watch live: Sessions testifies to the House Judiciary Committee
+</a>
+</div>
+<div style="font-size:80%;color:#333">
+6:54:25
+</div>
+<div style="font-size:80%;color:#333">
+Washington Post
+</div>
+<div style="font-size:80%;color:#333">
+61,419 views
+</div>
+</td>
+</tr>
+<tr valign="top">
+<td width="125">
+<div>
+<a href="https://m.youtube.com/watch?v=Z3OZyb2iWqQ&amp;itct=CGEQpDAYDSITCL7ygr-Pv9cCFUnefgod1_kNETIKZy1oaWdoLXRydloPRkV3aGF0X3RvX3dhdGNo&amp;client=mv-google&amp;gl=US&amp;hl=en">
+<img src="./YouTube_files/default(13).jpg" alt="video icon" width="120" height="90">
+</a>
+</div>
+</td>
+<td style="width:100%;font-size:13px">
+<div style="padding-bottom:1px;text-align:left;font-size:90%" dir="ltr">
+<a href="https://m.youtube.com/watch?v=Z3OZyb2iWqQ&amp;itct=CGEQpDAYDSITCL7ygr-Pv9cCFUnefgod1_kNETIKZy1oaWdoLXRydloPRkV3aGF0X3RvX3dhdGNo&amp;client=mv-google&amp;gl=US&amp;hl=en">
+Colin Farrell Dishes on Rendezvous with Girlfriend
+</a>
+</div>
+<div style="font-size:80%;color:#333">
+5:23
+</div>
+<div style="font-size:80%;color:#333">
+TheEllenShow
+</div>
+<div style="font-size:80%;color:#333">
+46,808 views
+</div>
+</td>
+</tr>
+<tr valign="top">
+<td width="125">
+<div>
+<a href="https://m.youtube.com/watch?v=VsYmwBOYfW8&amp;itct=CGAQpDAYDiITCL7ygr-Pv9cCFUnefgod1_kNETIKZy1oaWdoLXRydloPRkV3aGF0X3RvX3dhdGNo&amp;client=mv-google&amp;gl=US&amp;hl=en">
+<img src="./YouTube_files/default(14).jpg" alt="video icon" width="120" height="90">
+</a>
+</div>
+</td>
+<td style="width:100%;font-size:13px">
+<div style="padding-bottom:1px;text-align:left;font-size:90%" dir="ltr">
+<a href="https://m.youtube.com/watch?v=VsYmwBOYfW8&amp;itct=CGAQpDAYDiITCL7ygr-Pv9cCFUnefgod1_kNETIKZy1oaWdoLXRydloPRkV3aGF0X3RvX3dhdGNo&amp;client=mv-google&amp;gl=US&amp;hl=en">
+Mean Tweets – Jimmy Kimmel Edition
+</a>
+</div>
+<div style="font-size:80%;color:#333">
+4:27
+</div>
+<div style="font-size:80%;color:#333">
+Jimmy Kimmel Live
+</div>
+<div style="font-size:80%;color:#333">
+1,208,158 views
+</div>
+</td>
+</tr>
+
+</tbody></table>
+</div>
+</div>
+<br>
+<hr size="1" noshade="noshade" color="#999" style="width:100%;height:1px;margin:2px 0;padding:0;color:#999;background:#999;border:none;">
+<br>
+<div style="margin-left:3px;margin-right:3px">
+<div style="padding-bottom:0"><a href="https://m.youtube.com/#top" accesskey="0">YouTube Home</a></div>
+<div style="padding-bottom:0"><a href="404.html">Browse Videos</a></div>
+<div style="padding-bottom:0"><a href="404.html">My Account</a></div>
+<div style="padding-bottom:0"><a href="404.html">Upload</a></div>
+</div>
+<br>
+
+<div style="background:#EEE;text-align:center;border-top:1px solid #999;font-size:80%">
+<br>
+<div>
+Location:
+<a href="404.html">United States</a>
+-
+Language:
+<a href="404.html">English</a>
+</div>
+<div>
+<a id="sign-in-footer" href="404.html">Sign in</a>
+</div>
+<div>
+<a href="404.html">Help</a>
+-
+<a href="404.html">Terms &amp; Privacy</a>
+</div>
+<br>
+<b>Mobile</b>
+| <a href="404.html">Desktop</a>
+<div dir="ltr">
+©
+2017 YouTube, LLC
+</div>
+<br>
+</div>
+
+</body></html>
