@@ -1,58 +1,73 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Tamagotchi
-</title>
-	<style type="text/css">
-	/*	.log_in {
-			margin-left: 40%;
-			width: 100px;
-		}
-		#fans {
-			background-color: red;
-			width: 12%;
-			height: 500px;
-			float: left;
-		}
-		#animation {
-			background-color: yellow;
-			width: 76%;
-			height: 500px;
-			position: absolute;
-			left: 13%;
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0,  minimum-scale=1.0">  
+	<title>Tamagotchi</title>
 
-		}
-
-		#currency{
-			background-color: blue;
-			width: 12%;
-			height: 500px;
-			position: absolute;
-			margin-left: 88%;
-		}
-
-		#control {
-			background-color: green;
-			margin-top: 500px;
-			width: 100%;
-
-
-			
-		}*/
-
-	</style>
+	<link rel="stylesheet" type="text/css" href="style2.css">
+	<script src="p5/p5.min.js"></script><!-- 
+    <script src="p5/addons/p5.dom.min.js"></script> -->
+    <script src="p5/addons/p5.sound.min.js"></script>
 
 </head>
-<body id = "body">
-	<div id="log_in">
-	Name: <input id = person_name type="text" name="FirstName">
-	<button id = "submit_btn" onclick="login()"> first btn</button>
-</div>
-	<form id="myForm" >
-		
-	</form>
 
-<script src="framework.js"></script>
+
+<body id = "body" >
+
+	<div id="tamagotchi_container">
+		<div id="log_in_container" >	
+			<label style="">Name: </label>
+			<label id = "user_name"></label>
+			<input id = "person_name" type="text" name="FirstName" maxlength="10">
+			<input id="myId" type="text" value="ID : ">
+			<button id = "submit_btn" onclick="login();"> Submit</button>
+		</div>
+
+			<img id="egg" src="img/egg.png">
+
+			<canvas id="canvas"></canvas>
+
+			<div id="eat_container">
+			<img  id="eat_b" src="img/eat01.png" >
+			<img  id="eat_b2" src="img/eat02.png" >
+			</div>
+
+
+			<div id="play_container" > 
+			<img id="play_b" src="img/play01.png">
+			<img id="play_b2" src="img/play02.png">
+			</div>
+
+
+			<div id= "sleep_container" >
+			<img id= "sleep_b" src="img/sleep01.png">
+			<img id= "sleep_b2" src="img/sleep02.png">
+			</div>
+
+			<div id="bottom_container">
+			<!-- <input type="" name="">
+			<input type="" name="">
+			<button></button> -->
+			<div id="fol_container" >
+				<input id = "fol_txt" type="text" value="Add people's ID here: " onclick="resetFollowertxtbox()">
+				<button id = "fol_btn" onclick="addFollowers()">Submit
+				</button>
+			</div>
+
+			<div id="cur_container">
+				<input id = "cur_txt" type="text" readonly="true" value="cur : ">
+			</div>
+
+
+		</div>
+	</div>
+
+		<script src="framework.js" id="framework" ></script>
+
+<!-- <script src="sprite_animation.js" defer=""></script>
+	 -->
+	
 
 
 </body>

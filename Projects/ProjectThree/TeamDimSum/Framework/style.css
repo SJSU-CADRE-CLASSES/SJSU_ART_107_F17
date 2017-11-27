@@ -1,0 +1,214 @@
+#tamagotchi_container{
+	/*position: absolute;*/
+  	/*left: 50%;
+  	top: 50%;*/
+  	/*transform: translate(-50%, -50%);*/
+    /*mobile width is 100*/
+    display: block;
+  	width: 100%; 
+    height: 100%; 
+    border-style: solid;
+    border-color: red;
+  }
+
+ #log_in_container{
+    height: 50px;
+    width: 300px;
+    margin-left: 50%;
+    transform: translate(-50%);
+    border-style:solid;
+    border-color: blue;
+    text-align: center;
+ }
+
+#myId{
+  display:none; 
+
+}
+
+#person_name{
+  margin-top: 100%;
+}
+
+#user_name{
+  visibility: hidden;
+}
+
+#submit_btn{
+  display: inline-block;
+}
+
+#bottom_container{
+  display: block;
+  height: 50px;
+  border-style:solid;
+  border-color: blue;
+}
+
+#egg{
+  	/*margin-left: 50%;
+  	transform: translate(-50%);*/
+  border-style: solid;
+  border-color: green;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+/*    margin-top: 20%;
+    margin-bottom: 20%;*/
+  width: 90%;
+  visibility: hidden;
+    /*width: 375px or 400px;*/
+}
+
+#eat_container{
+/*  border-color: orange;
+  border-style: dashed;*/
+  position: absolute;
+  top: 72%;
+  left: 48%;
+  width: 40px;
+  height: 35px;
+  visibility: hidden;
+}
+
+#eat_b, #eat_b2{
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+  bottom: 0px;
+  width: 40px;
+}
+
+#eat_b2{
+  visibility: hidden;
+}
+
+#play_container{
+  /*border-color: orange;
+  border-style: dashed;*/
+  position: absolute;
+  top: 69%;
+  left: 33%;
+  width: 40px;
+  height: 35px;
+  visibility: hidden;
+}
+
+#play_b, #play_b2{
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+  bottom: 0px;
+  width: 40px;
+}
+
+#play_b2{
+  visibility: hidden;
+}
+
+#sleep_container{
+ /* border-color: orange;
+  border-style: dashed;*/
+  position: absolute;
+  top: 69%;
+  left: 63%;
+  width: 40px;
+  height: 35px;
+  visibility: hidden;
+}
+
+#sleep_b, #sleep_b2{
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+  bottom: 0px;
+  width: 40px;
+}
+
+#sleep_b2{
+  visibility: hidden;
+}
+
+#canvas{
+  border-style: solid;
+  border-color: pink;
+  position: absolute;
+  top: 51.5%;
+  left: 50.5%;
+  transform: translate(-50%,-50%);
+  width: 58.25%;
+  height: 36.5%;
+  visibility: hidden;
+}
+
+#fol_container{
+   margin-left: 50%;
+   transform: translate(-50%);
+}
+
+#cur_container{
+   margin-left: 50%;
+   transform: translate(-50%);
+}
+
+#bottom_container{
+  margin-top: 130%;
+  visibility: hidden;
+}
+/*.
+
+
+
+.sleep_b, .sleep_b2{
+	position: absolute;
+  	left: 59%;
+  	top: 59%;
+  	
+  	width: 7%;
+}
+#screen{
+	position: absolute;
+	top: 20%;
+	left: 51%;
+	transform: translate(-50%);
+    width: 20%;
+}
+
+#canvas{
+	border-style: solid;
+	border-color: blue;
+	position: absolute;
+	top: 23%;
+	left: 51.5%;
+	transform: translate(-50.5%);
+    width: 17.5%;
+    height: 28.3%;
+
+}
+
+#top_container{
+	position: absolute;
+  	left: 50%;
+  	top: -30px;
+  	transform: translate(-50%, -50%);
+  	width: 100%;
+  	border-color: red;
+  	border-style: solid;
+  	text-align: center;
+}
+
+
+#bottom_container{
+	position: absolute;
+	top: 105%;
+	width: 99%;
+	border-color: green;
+  	border-style: solid;
+  	text-align: center;
+}
+
+*/

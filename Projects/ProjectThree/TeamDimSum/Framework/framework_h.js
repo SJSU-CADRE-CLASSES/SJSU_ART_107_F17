@@ -3,7 +3,7 @@ const gettingHungry = 7500;
 const hungry = 5000;
 const starving = 2500;
 const dead = 0;
-// const possible = [ "likeforlike" , "inspirationalquotes" , "throwback" , "sunset" , "blackandwhite" , "bestoftheday" , "photography" ,  "love" ,  "me" , "cute" , "photooftheday" , "happy" , "beautiful" , "self" , "girl" , "picoftheday" , "smile" , "friends" , "fun" , "like" , "fashion" , "summer" , "igers" , "food" , "swag" , "amazing" , "style" , "wcw" , "family" , "lol" , "life" , "pretty" , "hair" , "my" , "sun" , "art" , "cool" , "bored" , "funny" , "girls" , "party" , "music" , "nature" , "beauty" , "night" , "fitness" , "beach" , "look" , "nice" , "sky" , "christmas" , "baby" ];
+const possible = [ "likeforlike" , "inspirationalquotes" , "throwback" , "sunset" , "blackandwhite" , "bestoftheday" , "photography" ,  "love" ,  "me" , "cute" , "photooftheday" , "happy" , "beautiful" , "self" , "girl" , "picoftheday" , "smile" , "friends" , "fun" , "like" , "fashion" , "summer" , "igers" , "food" , "swag" , "amazing" , "style" , "wcw" , "family" , "lol" , "life" , "pretty" , "hair" , "my" , "sun" , "art" , "cool" , "bored" , "funny" , "girls" , "party" , "music" , "nature" , "beauty" , "night" , "fitness" , "beach" , "look" , "nice" , "sky" , "christmas" , "baby" ];
 
 var currency = 50;
 
@@ -19,8 +19,8 @@ var follower_btn;
 //random id and its read-only textbox
 var userID_txbox;
 var random_gen_code;
-var otherIDs;
-// var otherIDs= possible;
+
+var otherIDs = possible;
 //variable for a textbox for user to input other people's code
 var otherIDs_txbox = document.querySelector("#fol_txt");
 
@@ -122,7 +122,7 @@ function login() {
   submit_button_sound.play();
   //run animation script
   var animation_script = document.createElement("SCRIPT");
-  animation_script.src = "testAnimation.js";
+  animation_script.src = "testAnimationHoriz.js";
   document.querySelector("#body").appendChild(animation_script);
   // gen_ran_letter();
 
@@ -206,8 +206,8 @@ function play_btn_animation() {
   document.querySelector("#play_b").style.visibility = "hidden";
   document.querySelector("#play_b2").style.visibility = "visible";
   
- happy_height = happy_height + 60;
- happy_y = happy_y - 60;
+ happy_width = happy_width + 60;
+ //happy_y = happy_y - 60;
 
   var timer = 0;
   var begin = setInterval(function() {
@@ -235,8 +235,8 @@ function sleep_btn_animation() {
   document.querySelector("#sleep_b").style.visibility = "hidden";
   document.querySelector("#sleep_b2").style.visibility = "visible";
 
- happy_height = happy_height + 40;
- happy_y = happy_y - 40;
+ happy_width = happy_width + 40;
+ //happy_y = happy_y - 40;
 
   var timer = 0;
   var begin = setInterval(function() {
@@ -281,7 +281,7 @@ function addFollowers(){
   }
 
   else {
-    // otherIDs.splice(otherIDs.indexOf(otherIDs_txbox.value), 1 );
+    otherIDs.splice(otherIDs.indexOf(otherIDs_txbox.value), 1 );
     success_sound.play();
     currentFollowers++
     num_foll = currentFollowers;
@@ -305,9 +305,9 @@ function feed_tamagochi(){
   currency_txbox.value = "Your currency is :$ " + currency;
 
   tamagotchi.feed();
-  hunger_y = hunger_y - 26.9;
-  hunger_height = hunger_height + 26.9;
-  console.log(hunger_y + " feed method");
+  //hunger_y = hunger_y - 26.9;
+  hunger_width = hunger_width + 26.9;
+  //console.log(hunger_y + " feed method");
 
   var timer = 0;
   var begin = setInterval(function() {
@@ -374,7 +374,7 @@ var tamagotchi = {
     // this.sleepLevel = this.sleepLevel - 2;
   },
   isAlive: function () {
-    if (this.foodLevel <= 0 || happy_height <=0) {
+    if (this.foodLevel <= 0 || happy_width <=0) {
       return false;
     } else {
       return true;
@@ -399,16 +399,11 @@ var tamagotchi = {
 
 function makeid() {
   var text = "";
-  var possible = [ "likeforlike" , "inspirationalquotes" , "throwback" , "sunset" , "blackandwhite" , "bestoftheday" , "photography" ,  "love" ,  "me" , "cute" , "photooftheday" , "happy" , "beautiful" , "self" , "girl" , "picoftheday" , "smile" , "friends" , "fun" , "like" , "fashion" , "summer" , "igers" , "food" , "swag" , "amazing" , "style" , "wcw" , "family" , "lol" , "life" , "pretty" , "hair" , "my" , "sun" , "art" , "cool" , "bored" , "funny" , "girls" , "party" , "music" , "nature" , "beauty" , "night" , "fitness" , "beach" , "look" , "nice" , "sky" , "christmas" , "baby" ];
-
-
-
+  // var possible = [ "likeforlike" , "inspirationalquotes" , "throwback" , "sunset" , "blackandwhite" , "bestoftheday" , "photography" ,  "love" ,  "me" , "cute" , "photooftheday" , "happy" , "beautiful" , "self" , "girl" , "picoftheday" , "smile" , "friends" , "fun" , "like" , "fashion" , "summer" , "igers" , "food" , "swag" , "amazing" , "style" , "wcw" , "family" , "lol" , "life" , "pretty" , "hair" , "my" , "sun" , "art" , "cool" , "bored" , "funny" , "girls" , "party" , "music" , "nature" , "beauty" , "night" , "fitness" , "beach" , "look" , "nice" , "sky" , "christmas" , "baby" ];
   					//get char	//round the number//0 to 1 * 64
-    text = possible[Math.floor(Math.random() * possible.length)];
-
-
+  text = possible[Math.floor(Math.random() * possible.length)];
   random_gen_code = text;
-  otherIDs = possible;
+  // otherIDs = possible;
 }
 
 tamagotchi.initialize("Tam");
