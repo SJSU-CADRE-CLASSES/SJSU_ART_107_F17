@@ -1,0 +1,160 @@
+@import url(https://fonts.googleapis.com/css?family=Josefin+Slab);
+body {
+  background: #000000;
+}
+#loader {
+  position: absolute;
+  width: 500px;
+  height: 130px;
+  left: 50%;
+  top: 40%;
+  margin-left: -250px;
+}
+#loader:before {
+  content: 'Loading';
+  display: block;
+  font-size: 20px;
+  position: absolute;
+  text-transform: uppercase;
+  font-family: 'Josefin Slab', serif;
+  color: #9befc6;
+  text-align: center;
+  width: 100%;
+  text-shadow: 0 0px 50px #21d07b;
+}
+#loader li {
+  position: absolute;
+  width: 10px;
+  height: 60px;
+  opacity: 0;
+  color: #137847;
+  text-transform: uppercase;
+  text-shadow: 0 2px 3px rgba(0, 0, 0, 0.9);
+  font-size: 0px;
+  font-family: 'Josefin Slab', serif;
+  animation: loader 2300ms linear infinite normal;
+  -o-animation: loader 2300ms linear infinite normal;
+  -moz-animation: loader 2300ms linear infinite normal;
+  -webkit-animation: loader 2300ms linear infinite normal;
+}
+#loader li:after {
+  content: '»';
+  display: block;
+  font-size: 90px;
+  text-shadow: 0 0px 40px #21d07b;
+}
+#loader li:nth-child(2) {
+  color: #1aa461;
+  animation-delay: 0.2s;
+  -o-animation-delay: 0.2s;
+  -moz-animation-delay: 0.2s;
+  -webkit-animation-delay: 0.2s;
+}
+#loader li:nth-child(3) {
+  color: #20c776;
+  animation-delay: 0.4s;
+  -o-animation-delay: 0.4s;
+  -moz-animation-delay: 0.4s;
+  -webkit-animation-delay: 0.4s;
+}
+#loader li:nth-child(4) {
+  color: #31de8a;
+  animation-delay: 0.6s;
+  -o-animation-delay: 0.6s;
+  -moz-animation-delay: 0.6s;
+  -webkit-animation-delay: 0.6s;
+}
+#loader li:nth-child(5) {
+  color: #54e49e;
+  animation-delay: 0.8s;
+  -o-animation-delay: 0.8s;
+  -moz-animation-delay: 0.8s;
+  -webkit-animation-delay: 0.8s;
+}
+#loader li:nth-child(6) {
+  color: #85ecba;
+  animation-delay: 1s;
+  -o-animation-delay: 1s;
+  -moz-animation-delay: 1s;
+  -webkit-animation-delay: 1s;
+}
+#loader li:nth-child(7) {
+  color: #b1f3d3;
+  animation-delay: 1.2s;
+  -o-animation-delay: 1.2s;
+  -moz-animation-delay: 1.2s;
+  -webkit-animation-delay: 1.2s;
+}
+#loader li:nth-child(8) {
+  color: #effcf6;
+  animation-delay: 1.4s;
+  -o-animation-delay: 1.4s;
+  -moz-animation-delay: 1.4s;
+  -webkit-animation-delay: 1.4s;
+}
+#loader li:nth-child(9) {
+  color: #f3fdf8;
+  animation-delay: 1.6s;
+  -o-animation-delay: 1.6s;
+  -moz-animation-delay: 1.6s;
+  -webkit-animation-delay: 1.6s;
+}
+#loader li:nth-child(10) {
+  color: #ffffff;
+  animation-delay: 1.8s;
+  -o-animation-delay: 1.8s;
+  -moz-animation-delay: 1.8s;
+  -webkit-animation-delay: 1.8s;
+}
+@-webkit-keyframes loader {
+  0% {
+    -webkit-transform: scale(0.2) perspective(400px) rotateY(-50deg);
+    left: 0;
+    opacity: 0;
+    -webkit-filter: blur(8px);
+  }
+  35% {
+    left: 41%;
+    -webkit-transform: scale(1.2) perspective(400px) rotateY(0deg);
+    opacity: 1;
+    -webkit-filter: blur(0px);
+  }
+  65% {
+    left: 59%;
+    -webkit-transform: scale(1.2) perspective(400px) rotateY(0deg);
+    opacity: 1;
+    -webkit-filter: blur(0px);
+  }
+  100% {
+    left: 100%;
+    opacity: 0;
+    -webkit-transform: scale(0.2) perspective(400px) rotateY(50deg);
+    -webkit-filter: blur(8px);
+  }
+}
+@-moz-keyframes loader {
+  0% {
+    -moz-transform: scale(0.2) perspective(400px) rotateY(-50deg);
+    left: 0;
+    opacity: 0;
+    -moz-filter: blur(8px);
+  }
+  35% {
+    left: 41%;
+    -moz-transform: scale(1.2) perspective(400px) rotateY(0deg);
+    opacity: 1;
+    -moz-filter: blur(0px);
+  }
+  65% {
+    left: 59%;
+    -moz-transform: scale(1.2) perspective(400px) rotateY(0deg);
+    opacity: 1;
+    -moz-filter: blur(0px);
+  }
+  100% {
+    left: 100%;
+    opacity: 0;
+    -moz-transform: scale(0.2) perspective(400px) rotateY(50deg);
+    -moz-filter: blur(8px);
+  }
+}
