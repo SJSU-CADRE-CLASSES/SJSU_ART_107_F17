@@ -37,4 +37,10 @@ Fan insert your text here.
 
 ![alt-text](link to image goes here)
 
+### - Gallery Installation:
+
+Text goes here.
+
+![alt-text](link to image goes here)
+
 
