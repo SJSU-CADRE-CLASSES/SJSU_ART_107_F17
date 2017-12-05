@@ -1,6 +1,7 @@
 # Faken’et
 
 Living in the digital age is as good as it is bad. Media is constantly evolving and improving. The latest news travels in a blink of an eye across continents. It is noteworthy that the content can be produced and shared by social network users in addition to journalists worldwide. Conversely, many negative aspects exist in this context as well. For instance, the information can be deliberately or unintentionally distorted as quickly as it can be made available to us. 
+
 Our goal in this project is to provide an experience in a secure, personal and independent network. In this cyberspace, there is no dictatorship and user or content monitoring. Faken’et includes six sections: the networking, four hosted webpages (Geeglo, Mesh News, Fakebook & Yentnbo) and the gallery installation.
 
 
