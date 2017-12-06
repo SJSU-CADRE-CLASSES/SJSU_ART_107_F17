@@ -18,9 +18,12 @@ Since our web server does not have an Internet connection, users get many error 
 
 ### + Geeglo:
 
-Yi insert your text here.
+Living in the digital age is as good as bad. The media is constantly evolving and improving. On the other hand, the latest news travels in a blink of an eye across continents. 
+Here, we wanted to represent the fear of being controlled on getting information, how easy it could be, to make the participants think beyond the internet—how we can trust a certain system, or a service, or an engine we used based on the internet, and what will happen when the trusts disappear--In fact this circumstance truly exists commonly in the world—the forces that have the power to control the medias, are definitely able to do this for their own sakes, the so-called “political needs”, hiding or twisting the truth from the audience.
+In the fake Geeglo website, you will experience what it will be if the whole searching process is under controlled—Whatever you type, you search, the result will only be “Page Not Found”, which will only connect to a fake news stand, a fake social media, a fake video channel. We want participants think about the issues of internet based media controlling when they are looking to it, because right now all the information shown is intentionally given by “someone”, on whatever purpose, they hide the true results. 
 
-![Geeglo-Screenshot](link to image goes here)
+
+![Geeglo-Screenshot](https://media.giphy.com/media/3o6fIW1lBLHWahvjAA/giphy.gif)
 
 
 ### + Mesh News:
