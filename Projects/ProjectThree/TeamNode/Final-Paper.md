@@ -5,7 +5,7 @@ Living in the digital age is as good as it is bad. Media is constantly evolving 
 Our goal in this project is to provide an experience in a secure, personal and independent network. In this cyberspace, there is no dictatorship and user or content monitoring. Faken’et includes six sections: the networking, four hosted webpages (Geeglo, Mesh News, Fakebook & Yentnbo) and the gallery installation.
 
 
-### - Networking:
+### + Networking:
 
 Using a Raspberry Pi 3, we created a portable web server, that could be deployed anywhere, with a WiFi hotspot around it which would be used to instantly share information, without the need of an Internet connection. Additionally, we assigned IPs to the hotspot users and redirected all of their requests to our local pages on our *lighttpd* web server by utilizing the *dnsmasq*. The Raspberry Pi wireless access point that we set up will be shown in the users’ wireless network settings. After they connect to the access point, no matter where they point their web browser, it will always direct them to the pages hosted on the Pi.
 
@@ -13,31 +13,31 @@ Since our web server does not have an Internet connection, users get many error 
 
 ![alt-text](https://i.imgur.com/8H8dm9U.png)
 
-### - Geeglo:
+### + Geeglo:
 
 Yi insert your text here.
 
 ![alt-text](link to image goes here)
 
-### - Mesh News:
+### + Mesh News:
 
 Roya insert your text here.
 
 ![alt-text](link to image goes here)
 
-### - Fakebook:
+### + Fakebook:
 
 Eduardo and Michael insert your text here.
 
 ![alt-text](link to image goes here)
 
-### - YenTnbo:
+### + YenTnbo:
 
 Fan insert your text here.
 
 ![alt-text](link to image goes here)
 
-### - Gallery Installation:
+### + Gallery Installation:
 
 Text goes here.
 
