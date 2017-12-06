@@ -1,6 +1,6 @@
 # Faken’et
 
-![alt-text](https://i.imgur.com/Y043hfj.gif)
+![gallery-gif](https://i.imgur.com/Y043hfj.gif)
 
 Living in the digital age is as good as it is bad. Media is constantly evolving and improving. The latest news travels in a blink of an eye across continents. It is noteworthy that the content can be produced and shared by social network users in addition to journalists worldwide. Conversely, many negative aspects exist in this context as well. For instance, the information can be deliberately or unintentionally distorted as quickly as it can be made available to us. 
 
