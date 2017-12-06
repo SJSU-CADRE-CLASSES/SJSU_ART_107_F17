@@ -1,5 +1,7 @@
 # Faken’et
 
+![alt-text](https://i.imgur.com/Y043hfj.gif)
+
 Living in the digital age is as good as it is bad. Media is constantly evolving and improving. The latest news travels in a blink of an eye across continents. It is noteworthy that the content can be produced and shared by social network users in addition to journalists worldwide. Conversely, many negative aspects exist in this context as well. For instance, the information can be deliberately or unintentionally distorted as quickly as it can be made available to us. 
 
 Our goal in this project is to provide an experience in a secure, personal and independent network. In this cyberspace, there is no dictatorship and user or content monitoring. Faken’et includes six sections: the networking, four hosted webpages (Geeglo, Mesh News, Fakebook & Yentnbo) and the gallery installation.
@@ -11,41 +13,41 @@ Using a Raspberry Pi 3, we created a portable web server, that could be deployed
 
 Since our web server does not have an Internet connection, users get many error pages while trying to browse the Internet, specifically for websites hosted on secured servers for instance “https://example.com". We expanded on this concept and created more error pages within the hosted content to portray how a limited internet restricts the boundaries a user can explore within our physical web space.
 
-![alt-text](https://i.imgur.com/8H8dm9U.png)
+![Fake-WiFi](https://i.imgur.com/8H8dm9U.png)
 
 
 ### + Geeglo:
 
 Yi insert your text here.
 
-![alt-text](link to image goes here)
+![Geeglo-Screenshot](link to image goes here)
 
 
 ### + Mesh News:
 
 Roya insert your text here.
 
-![alt-text](link to image goes here)
+![MeshNews-Screenshot](link to image goes here)
 
 
 ### + Fakebook:
 
 Eduardo and Michael insert your text here.
 
-![alt-text](link to image goes here)
+![Fakebook-Screenshot](link to image goes here)
 
 
 ### + YenTnbo:
 
 Fan insert your text here.
 
-![alt-text](link to image goes here)
+![YenTnbo-Screenshot](link to image goes here)
 
 
 ### + Gallery Installation:
 
 Text goes here.
 
-![alt-text](link to image goes here)
+![Gallery-Images](link to image goes here)
 
 
