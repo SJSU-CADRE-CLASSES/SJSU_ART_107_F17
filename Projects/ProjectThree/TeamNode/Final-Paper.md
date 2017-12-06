@@ -11,7 +11,7 @@ Our goal in this project is to provide an experience in a secure, personal and i
 
 Using a Raspberry Pi 3, we created a portable web server, that could be deployed anywhere, with a WiFi hotspot around it which would be used to instantly share information, without the need of an Internet connection. Additionally, we assigned IPs to the hotspot users and redirected all of their requests to our local pages on our *lighttpd* web server by utilizing the *dnsmasq*. The Raspberry Pi wireless access point that we set up will be shown in the users’ wireless network settings. After they connect to the access point, no matter where they point their web browser, it will always direct them to the pages hosted on the Pi.
 
-Since our web server does not have an Internet connection, users get many error pages while trying to browse the Internet, specifically for websites hosted on secured servers for instance “https://example.com". We expanded on this concept and created more error pages within the hosted content to portray how a limited internet restricts the boundaries a user can explore within our physical web space.
+Since our web server does not have an Internet connection, users get many error pages while trying to browse the Internet, specifically for websites hosted on secured servers for instance “__https__://example.com". We expanded on this concept and created more error pages within the hosted content to portray how a limited internet restricts the boundaries a user can explore within our physical web space.
 
 ![Fake-WiFi](https://i.imgur.com/8H8dm9U.png)
 
