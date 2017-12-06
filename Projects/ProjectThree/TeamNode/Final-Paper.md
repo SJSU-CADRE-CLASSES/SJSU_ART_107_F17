@@ -11,8 +11,8 @@ Using a Raspberry Pi 3, we created a portable web server, that could be deployed
 
 Since our web server does not have an Internet connection, users get many error pages while trying to browse the Internet, specifically for websites hosted on secured servers for instance “https://example.com". We expanded on this concept and created more error pages within the hosted content to portray how a limited internet restricts the boundaries a user can explore within our physical web space.
 
-
 ![alt-text](https://i.imgur.com/8H8dm9U.png)
+
 
 ### + Geeglo:
 
@@ -20,11 +20,13 @@ Yi insert your text here.
 
 ![alt-text](link to image goes here)
 
+
 ### + Mesh News:
 
 Roya insert your text here.
 
 ![alt-text](link to image goes here)
+
 
 ### + Fakebook:
 
@@ -32,11 +34,13 @@ Eduardo and Michael insert your text here.
 
 ![alt-text](link to image goes here)
 
+
 ### + YenTnbo:
 
 Fan insert your text here.
 
 ![alt-text](link to image goes here)
+
 
 ### + Gallery Installation:
 
