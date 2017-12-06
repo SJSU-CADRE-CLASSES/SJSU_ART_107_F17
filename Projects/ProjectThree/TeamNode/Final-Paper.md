@@ -24,9 +24,9 @@ In Geeglo(fake google website), you will experience what it will be like if the 
 
 ![Geeglo-Screenshot](https://github.com/ablanton/SJSU_ART_107_F17/blob/93091ed9c25a95c8b086f0f14d9b3a9bed3b5779/Projects/ProjectThree/TeamNode/Geegle/Documentation/Geeglo.jpg)
 
-**Pic 1st-Fake internet-Geeglo-the searching engine.-Almost as real as it looks like.**
-**Pic 2nd-The results shown from whatever you input.-Designed process.**
-**Pic 3rd-When you try to jump out of the fraud.-You can’t.**
+-Pic 1st-Fake internet-Geeglo-the searching engine.-Almost as real as it looks like.
+-Pic 2nd-The results shown from whatever you input.-Designed process.
+-Pic 3rd-When you try to jump out of the fraud.-You can’t.
 
 ![Geeglo-Screenshot](https://media.giphy.com/media/3o6fIW1lBLHWahvjAA/giphy.gif)
 
