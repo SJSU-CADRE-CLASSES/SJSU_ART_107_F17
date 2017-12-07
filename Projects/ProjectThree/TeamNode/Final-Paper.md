@@ -63,7 +63,7 @@ The installation was part of the __Expanded Networks__ class show case set up in
 
 For the projected animations, the reds and the blue correlate with the web platform they are representing. We also included an audio for our piece which was a voice-over extracted from the Google Translate bot explaining about each web platfom once highlighted by the projection animations.
 
-![Gallery-Images](https://raw.githubusercontent.com/ablanton/SJSU_ART_107_F17/master/Projects/ProjectThree/TeamNode/gallery%20image/Installation.png)
+![Gallery-Images](https://raw.githubusercontent.com/ablanton/SJSU_ART_107_F17/master/Projects/ProjectThree/TeamNode/Geegle/Geeglo-Screenshots.jpg)
 
 _____
 
