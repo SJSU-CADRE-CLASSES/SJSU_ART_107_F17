@@ -65,4 +65,12 @@ For the projected animations, the reds and the blue correlate with the web platf
 
 ![Gallery-Images](https://raw.githubusercontent.com/ablanton/SJSU_ART_107_F17/master/Projects/ProjectThree/TeamNode/gallery%20image/Installation.png)
 
+_____
 
+#### Team:
+Fan Feng
+Leily Khatibi
+Roya Ebtehaj
+Yi Liu
+Eduardo Reyes Sanchez
+Michael Yu
