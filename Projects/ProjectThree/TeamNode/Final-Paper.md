@@ -72,5 +72,5 @@ _____
 * Leily Khatibi
 * Roya Ebtehaj
 * Yi Liu
-Eduardo Reyes Sanchez
-Michael Yu
+* Eduardo Reyes Sanchez
+* Michael Yu
