@@ -42,7 +42,9 @@ Initially, we began to search for the fake news to find the best way to twist th
 ### + Fakebook:
 
 For this final collaborative project, the work amongst our group was divided. Since there was six of us in the group, three pairs consisting of two people where made. The Fakebook project consisted of Michael Yue and Eduardo Reyes and they were in charge of creating a fake social media page. Since Facebook is the most used page, in terms of easy access with email confirmation, our group decided to use a replica of this application. 
+
 	The original idea behind this project was to create a local hotspot with similar characteristics to a real Wi-fi hotspot but with a twist, a “fake” browser capable of allowing those using it, to access from a range of search engines, and news websites, to personal pages. Michael and Eduardo were in charge of replicating the facebook page, along with fake error pages that would appear after the users had already accessed all the pages created.
+	
 	While creating the FakeBook page, our intention was to create a familiar style from the real page, however we included our twist that showed obvious Fake qualities. The users of this page where exposed to other capabilities not allowed in the original Facebook, this ranged from built-in dating applications to access of those that don’t want to be friends with the user. The images and logos were modified and recreated, to create the content desired. In addition, the size of the web pages were modified to only fit mobile screens since this installation was designed for mobile users. In conclusion, this project was created to bring awareness to the users about internet censorship. Through several modifications in the index page, we were able to “hack” the original facebook, to show our original message.
 
 
@@ -51,7 +53,9 @@ For this final collaborative project, the work amongst our group was divided. Si
 
 ### + YenTnbo:
 
-Fan insert your text here.
+YenTnbo is a parody of the famous video website YouTube. YouTube is a milestone of internet censorship in many countries. However in North America, YouTube is completely accessible. Since the videos on YouTube are mostly created by it's users in  countries all around the world, it gives an overview of how life is in those places. Few years after the launch of YouTube, because more and more sensitive political content was uploaded, it become inaccessible to a number of countries by IP blocking.
+
+In that result, YenTnbo is modified from the mobile version of YouTube website. Users can see different titles of the video showing on the home page. Some video titles relate to different sensitive topics and the users are not able to access those videos; they will be navigated to a 404 page. The videos without sensitive contents are all accessible. Additionally, since YenTnbo is hostd on a custom network built on a Raspberry Pi, the audiences will only see the contents we have made available on this network. Therefore, they will experience what a video website looks like on a censored fake internet.
 
 ![YenTnbo-Screenshot](link to image goes here)
 
