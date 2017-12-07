@@ -41,7 +41,7 @@ Initially, we began to search for the fake news to find the best way to twist th
 
 ### + Fakebook:
 
-Facebook is the most dominant social media platform worldwide. In terms of easy access with email confirmation, our group decided to use a replica of this application. While creating the Fakebook page, our intention was to create a familiar style from the real page, however we included our twist that showed obvious Fake qualities. The users of this page were exposed to other capabilities not allowed in the original Facebook. These features ranged from built-in dating applications to access of those that don’t want to be friends with the user.
+Facebook is the most dominant social media platform worldwide. In terms of easy access with email confirmation, our group decided to create a fake replica of this application called *Fakebook*. While creating the Fakebook page, our intention was to create a familiar style from the original resource, however we included our twist that showed obvious fake qualities. The users of this page were exposed to other capabilities not allowed in the original Facebook. These features ranged from built-in dating applications to access of those that don’t want to be friends with the user.
 
 The images and logos were modified and recreated, to create the content desired. In addition, the size of the web pages were modified to only fit mobile screens since our gallery installation was designed specifically for mobile users.
 
