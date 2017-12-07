@@ -57,7 +57,7 @@ YenTnbo is a parody of the famous video website YouTube. YouTube is a milestone 
 
 In that result, YenTnbo is modified from the mobile version of YouTube website. Users can see different titles of the video showing on the home page. Some video titles relate to different sensitive topics and the users are not able to access those videos; they will be navigated to a 404 page. The videos without sensitive contents are all accessible. Additionally, since YenTnbo is hostd on a custom network built on a Raspberry Pi, the audiences will only see the contents we have made available on this network. Therefore, they will experience what a video website looks like on a censored fake internet.
 
-![YenTnbo-Screenshot](https://raw.githubusercontent.com/ablanton/SJSU_ART_107_F17/master/Projects/ProjectThree/TeamNode/yentnbo/YenTnbo.png)
+![YenTnbo-Screenshot](https://raw.githubusercontent.com/ablanton/SJSU_ART_107_F17/master/Projects/ProjectThree/TeamNode/yentnbo/YenTnbo-Screenshots.png)
 
 
 ### + Gallery Installation:
