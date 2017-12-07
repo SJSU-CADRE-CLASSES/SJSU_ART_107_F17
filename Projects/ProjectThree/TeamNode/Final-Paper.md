@@ -67,10 +67,10 @@ For the projected animations, the reds and the blue correlate with the web platf
 
 _____
 
-#### Team:
-* Fan Feng | YenTnbo + Projection Mapping
-* Leily Khatibi | Networking
-* Roya Ebtehaj | Mesh News
-* Yi Liu | Geeglo
-* Eduardo Reyes Sanchez | Fakebook
-* Michael Yu | Fakebook
+### + Team:
+* __Fan Feng__ | YenTnbo + Projection Mapping
+* __Leily Khatibi__ | Networking
+* __Roya Ebtehaj__ | Mesh News
+* __Yi Liu__ | Geeglo
+* __Eduardo Reyes Sanchez__ | Fakebook
+* __Michael Yu__ | Fakebook
