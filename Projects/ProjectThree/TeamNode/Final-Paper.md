@@ -59,8 +59,10 @@ In that result, YenTnbo is modified from the mobile version of YouTube website. 
 
 ### + Gallery Installation:
 
-Text goes here.
+The installation was part of the __Expanded Networks__ class show case set up in Gallery 8 at the Art Deparment, San Jose State University. "Faken'et" included a one channel video projection mapping on three white pedestals, each representating of one of our three fake media platforms including Fakebook, YenTnbo and Mesh news. There is also a fake google search engine (Geeglo) in this project which was the link between the other three platforms. 
 
-![Gallery-Images](link to image goes here)
+For the projected animations, the reds and the blue correlate with the web platform they are representing. We also included an audio for our piece which was a voice-over extracted from the Google Translate bot explaining about each web platfom once highlighted by the projection animations.
+
+![Gallery-Images](https://raw.githubusercontent.com/ablanton/SJSU_ART_107_F17/master/Projects/ProjectThree/TeamNode/gallery%20image/Installation.png)
 
 
