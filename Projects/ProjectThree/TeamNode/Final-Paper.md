@@ -45,7 +45,7 @@ Facebook is the most dominant social media platform worldwide. In terms of easy 
 
 The images and logos were modified and recreated, to create the content desired. In addition, the size of the web pages were modified to only fit mobile screens since our gallery installation was designed specifically for mobile users.
 
-![Fakebook-Screenshot](https://raw.githubusercontent.com/ablanton/SJSU_ART_107_F17/master/Projects/ProjectThree/TeamNode/FakeBook/Fakebook_App.png)
+![Fakebook-Screenshot](https://raw.githubusercontent.com/ablanton/SJSU_ART_107_F17/master/Projects/ProjectThree/TeamNode/FakeBook/Fakebook_Screenshot.png)
 
 
 ### + YenTnbo:
