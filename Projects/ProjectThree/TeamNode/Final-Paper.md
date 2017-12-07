@@ -22,7 +22,7 @@ Here, we wanted to represent the fear of being controlled on getting information
 
 In Geeglo(fake google website), you will experience what it will be like if the whole searching process is under control. Whatever you type in and search for, the result will only be “Page Not Found”. Additionally, your alternative search results will only connect to a fake news site, a fake social media platform and a fake video channel. We want the users to think about the issues of internet based media when they are looking deeper into it, because right now all the information shown is intentionally given by “someone”, based on whatever purpose and they are not giving access to results the user was initially trying to recieve. 
 
-![Geeglo-Screenshot](https://github.com/ablanton/SJSU_ART_107_F17/blob/93091ed9c25a95c8b086f0f14d9b3a9bed3b5779/Projects/ProjectThree/TeamNode/Geegle/Documentation/Geeglo.jpg)
+![Geeglo-Screenshot](https://raw.githubusercontent.com/ablanton/SJSU_ART_107_F17/master/Projects/ProjectThree/TeamNode/Geegle/Geeglo-Screenshots.jpg)
 
 ![Geeglo-Screenshot](https://media.giphy.com/media/3o6fIW1lBLHWahvjAA/giphy.gif)
 
@@ -63,14 +63,14 @@ The installation was part of the __Expanded Networks__ class show case set up in
 
 For the projected animations, the reds and the blue correlate with the web platform they are representing. We also included an audio for our piece which was a voice-over extracted from the Google Translate bot explaining about each web platfom once highlighted by the projection animations.
 
-![Gallery-Images](https://raw.githubusercontent.com/ablanton/SJSU_ART_107_F17/master/Projects/ProjectThree/TeamNode/Geegle/Geeglo-Screenshots.jpg)
+![Gallery-Images](https://raw.githubusercontent.com/ablanton/SJSU_ART_107_F17/master/Projects/ProjectThree/TeamNode/gallery%20image/Installation.png)
 
 _____
 
 #### Team:
-* Fan Feng
-* Leily Khatibi
-* Roya Ebtehaj
-* Yi Liu
-* Eduardo Reyes Sanchez
-* Michael Yu
+* Fan Feng | YenTnbo + Projection Mapping
+* Leily Khatibi | Networking
+* Roya Ebtehaj | Mesh News
+* Yi Liu | Geeglo
+* Eduardo Reyes Sanchez | Fakebook
+* Michael Yu | Fakebook
