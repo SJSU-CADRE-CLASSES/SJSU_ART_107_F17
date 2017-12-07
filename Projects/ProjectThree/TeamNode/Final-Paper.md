@@ -68,9 +68,9 @@ For the projected animations, the reds and the blue correlate with the web platf
 _____
 
 #### Team:
-Fan Feng
-Leily Khatibi
-Roya Ebtehaj
-Yi Liu
+* Fan Feng
+* Leily Khatibi
+* Roya Ebtehaj
+* Yi Liu
 Eduardo Reyes Sanchez
 Michael Yu
