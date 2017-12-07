@@ -36,7 +36,7 @@ For our fake news webpage, we started to create a fake version of a familiar new
 
 Initially, we began to search for the fake news to find the best way to twist the news. Based on the idea of manipulating original newscast, we decided to take some excised news and look at them from a biased subjective point of view then the distortion would happen. After doing some research we came across with the “Snopes” website as a platform for validating real and fake news. In that website, you can easily search for the key word to find related news. Then it evaluates the originality of the news. What we did was use the most controversial news related to our three regions and choose articles that were totally recognized by Snopes as fake and mesh them alongside each other onto our news website.
 
-![MeshNews-Screenshot](link to image goes here)
+![MeshNews-Screenshot](https://i.imgur.com/otJIM5K.jpg)
 
 
 ### + Fakebook:
